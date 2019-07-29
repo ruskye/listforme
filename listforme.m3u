@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTSIZE: Big
-#EXTBG: #11609e
 
 #EXTINF:0 tvg-logo="" group-title="ADULTOS",PLAYBOY
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6608.ts
@@ -19,90 +17,133 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
 
 #EXTINF:0  tvg-name="A&E FHD" tvg-logo="" group-title="FILMES/SÉRIES",A&E FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11063
+
 #EXTINF:0  tvg-name="A&E HD" tvg-logo="" group-title="FILMES/SÉRIES",A&E HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11062
+
 #EXTINF:0  tvg-name="A&E" tvg-logo="" group-title="FILMES/SÉRIES",A&E
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11064
+
 #EXTINF:0  tvg-name="AMC FHD" tvg-logo="" group-title="FILMES/SÉRIES",AMC FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11060
+
 #EXTINF:0  tvg-name="AMC HD" tvg-logo="" group-title="FILMES/SÉRIES",AMC HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11059
+
 #EXTINF:0  tvg-name="AMC" tvg-logo="" group-title="FILMES/SÉRIES",AMC
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11061
+
 #EXTINF:0  tvg-name="ANIMAL PLANET FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ANIMAL PLANET FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11057
+
 #EXTINF:0  tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ANIMAL PLANET HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11056
+
 #EXTINF:0  tvg-name="ANIMAL PLANET" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ANIMAL PLANET
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11058
+
 #EXTINF:0  tvg-name="ARTE 1 FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ARTE 1 FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11054
+
 #EXTINF:0  tvg-name="ARTE 1 HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ARTE 1 HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11053
+
 #EXTINF:0  tvg-name="ARTE 1" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ARTE 1
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11055
+
 #EXTINF:0  tvg-name="AXN FHD" tvg-logo="" group-title="FILMES/SÉRIES",AXN FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11051
+
 #EXTINF:0  tvg-name="AXN HD" tvg-logo="" group-title="FILMES/SÉRIES",AXN HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11050
+
 #EXTINF:0  tvg-name="AXN" tvg-logo="" group-title="FILMES/SÉRIES",AXN
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11052
+
 #EXTINF:0  tvg-name="BABY TV HD" tvg-logo="" group-title="INFANTIL",BABY TV HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11048
+
 #EXTINF:0  tvg-name="BABY TV" tvg-logo="" group-title="INFANTIL",BABY TV
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11049
+
 #EXTINF:0  tvg-name="BAND CAMPINAS" tvg-logo="" group-title="TV/ABERTA",BAND CAMPINAS
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11047
+
 #EXTINF:0  tvg-name="BAND NEWS FHD" tvg-logo="" group-title="NOTÍCIAS",BAND NEWS FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11045
+
 #EXTINF:0  tvg-name="BAND NEWS HD" tvg-logo="" group-title="NOTÍCIAS",BAND NEWS HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11044
+
 #EXTINF:0  tvg-name="BAND NEWS" tvg-logo="" group-title="NOTÍCIAS",BAND NEWS
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11046
+
 #EXTINF:0  tvg-name="BAND NORDESTE" tvg-logo="" group-title="TV/ABERTA",BAND NORDESTE
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11043
+
 #EXTINF:0  tvg-name="BAND SP FHD" tvg-logo="" group-title="TV/ABERTA",BAND SP FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11041
+
 #EXTINF:0  tvg-name="BAND SP HD" tvg-logo="" group-title="TV/ABERTA",BAND SP HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11040
+
 #EXTINF:0  tvg-name="BAND SP" tvg-logo="" group-title="TV/ABERTA",BAND SP
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11042
+
 #EXTINF:0  tvg-name="BAND SPORTS HD" tvg-logo="" group-title="ESPORTE",BAND SPORTS HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11038
+
 #EXTINF:0  tvg-name="BAND SPORTS" tvg-logo="" group-title="ESPORTE",BAND SPORTS
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11039
+
 #EXTINF:0  tvg-name="BIS HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",BIS HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11036
+
 #EXTINF:0  tvg-name="BIS" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",BIS
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11037
+
 #EXTINF:0  tvg-name="BOOMERANG FHD" tvg-logo="" group-title="INFANTIL",BOOMERANG FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11034
+
 #EXTINF:0  tvg-name="BOOMERANG HD" tvg-logo="" group-title="INFANTIL",BOOMERANG HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11033
+
 #EXTINF:0  tvg-name="BOOMERANG" tvg-logo="" group-title="INFANTIL",BOOMERANG
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11035
+
 #EXTINF:0  tvg-name="CANAL BRASIL" tvg-logo="" group-title="TV/ABERTA",CANAL BRASIL
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11032
+
 #EXTINF:0  tvg-name="CANCÃO NOVA HD" tvg-logo="" group-title="TV/ABERTA",CANCÃO NOVA HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11030
+
 #EXTINF:0  tvg-name="CANÇÃO NOVA" tvg-logo="" group-title="TV/ABERTA",CANÇÃO NOVA
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11031
+
 #EXTINF:0  tvg-name="CARTOON NETWORK FHD" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11028
+
 #EXTINF:0  tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11027
+
 #EXTINF:0  tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11029
+
 #EXTINF:0  tvg-name="CINEMAX FHD" tvg-logo="" group-title="FILMES/SÉRIES",CINEMAX FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11025
+
 #EXTINF:0  tvg-name="CINEMAX HD" tvg-logo="" group-title="FILMES/SÉRIES",CINEMAX HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11024
+
 #EXTINF:0  tvg-name="CINEMAX" tvg-logo="" group-title="FILMES/SÉRIES",CINEMAX
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11026
+
 #EXTINF:0  tvg-name="CLASSIQUE TV" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",CLASSIQUE TV
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11023
+
 #EXTINF:0  tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="NOTÍCIAS",CNN INTERNACIONAL
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11022
+
 #EXTINF:0  tvg-name="CNT" tvg-logo="" group-title="NOTÍCIAS",CNT
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11021
 #EXTINF:0  tvg-name="COMBATE FHD" tvg-logo="" group-title="ESPORTE",COMBATE FHD
