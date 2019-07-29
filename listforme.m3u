@@ -1,0 +1,1071 @@
+#EXTM3U
+
+TV ABERTA
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO RIO
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5622.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO SP
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5619.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO INTERNACIONAL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5986.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO BRASÍLIA
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5986.ts
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV/ABERTA",BAND
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5995.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV/ABERTA",BAND HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5994.ts
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="TV/ABERTA",RECORD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5990.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="TV/ABERTA",RECORD HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6184.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="TV/ABERTA",SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="TV/ABERTA",SBT HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6194.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV/ABERTA",REDE TV
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6196.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV/ABERTA",REDE TV HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6195.ts
+
+#EXTINF:0tvg-logo="http://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="TV/ABERTA",TV CULTURA
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:0tvg-logo="https://i.imgur.com/erib2xQ.png " group-title="TV/ABERTA",Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV/ABERTA",NOVO TEMPO
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6185.ts
+
+#EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rede_aparecida_de_comunicacao.jpg/200px-Rede_aparecida_de_comunicacao.jpg" group-title="TV/ABERTA",APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:0tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="TV/ABERTA",REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+
+#EXTINF:0tvg-logo="https://i.imgur.com/9Txygan.jpg " group-title="TV/ABERTA",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+
+
+
+ ////////////  NOTÍCIAS \\\\\\\\
+
+
+#EXTINF:0 tvg-logo="" group-title="NOTÍCIAS",GLOBO NEWS
+http://192.119.9.66:80/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_W76zKbN245HU&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=4d70e0fc515fd1621495819a4b89a9b1
+
+#EXTINF:0 tvg-logo="" group-title="NOTÍCIAS",RECORD NEWS
+http://192.119.9.66:80/live/A8B8E44D-982E-4315-9817-BB3468F4D7CC.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_QwU1Hel7XVqf&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=8a456b88991be5f7b4074da7ef1bb033
+
+#EXTINF:0 tvg-logo="" group-title="NOTÍCIAS",BAND NEWS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5991.ts
+
+
+
+///////////// DOCUMENTARIOS \\\\\\\\\\\
+
+
+#EXTINF:0 tvg-logo=""group-title="VARIEDADES/DOCUMENTARIOS",ANIMAL PLANET
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6250.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",Discovery Channel
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12152.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CIVILIZATION
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6247.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY SCIENCE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6134.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY/THEATER
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6132.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",HISTÓRY/CHANNEL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6256.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",HISTORY
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6255.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY TURBO
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6130.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",NAT/ GEOGRAPHY
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6252.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",NAT GEO/WILD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6239.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY H&H
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12153.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",OFF
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12171.ts
+
+
+    ////////////// VARIEDADES\\\\\\\\
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",GNT
+http://192.119.9.66:80/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_v7IPMmBX0qLb&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=a09745b551defb79bb0fc575281be207
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",MTV
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6788.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",MULTISHOW
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3839.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",COMEDY CENTRAL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6206.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",TLC
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6633.ts
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",CANAL VIVA
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6187.ts
+
+
+                    ESPORTES Com Bugs
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTE",BAND SPORTS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5576.ts
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTE",COMBATE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6217.ts
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTE",ESPN
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5586.ts
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTE",ESPN 2
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5585.ts
+
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTE",ESPN BRASIL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5588.ts
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTE",FOX SPORTS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5584.ts
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTE",FOX SPORTS 2
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5582.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png   " group-title="ESPORTE",SPORTV
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5594.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png   " group-title="ESPORTE",SPORTV 2
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5592.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png  " group-title="ESPORTE",SPORTV 3
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5591.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTE",PREMIERE CLUBE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6237.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTE",PREMIERE CLUBE HD
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6236.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="ESPORTE",Premiere 2
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6234.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="ESPORTE",Premiere 3
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6232.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTE",Premiere 4
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6230.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTE",Premiere 5
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6228.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTE",Premiere 6
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6226.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="ESPORTE",Premiere 7
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6224.ts
+
+
+
+
+         ///////////// NFANTIL \\\\\\\\\\
+
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3920.ts
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",CARTOON NETWORK
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6214.ts
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",DISNEY JÚNIOR
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6213.ts
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3919.ts
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",GLOOB
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6279.ts
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",ZOOMOO
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12150.ts
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",BABY TV
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/11365.ts
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",NICK JR
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3914.ts
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",NICKLONDEM
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3915.ts
+
+
+                     FILMES & SÉRIES Com Bugs
+
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",SPACE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5673.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",TNT
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5677.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",TNT SÉRIES
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6198.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",MAX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6281.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",MAX UP
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6287.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",MAXPRIME
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6283.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",MAXPRIME
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6285.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",MEGAPIX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5675.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",PARAMOONT
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5667.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",CANAL SONY
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5652.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",STUDIO UNIVERSAL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5669.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",UNIVERSAL  CHANNEL
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5656.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",A&E
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16030.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",AXN
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3847.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",CINEMAX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5671.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",CANAL FOX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6203.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",FX
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5651.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="FILMES/SÉRIES",TCM
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5665.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="FILMES/SÉRIES",AMC
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5563.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",HBO
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3849.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",HBO 2
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3848.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",HBO FAMILY
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3853.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",HBO PLUS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3852.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",HBO PLUS*é
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3851.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",HBO SIGNATURE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3850.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",TELECINE ACTION
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3858.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",TELECINE FUN
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3857.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",TELECINE PIPOCA
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5661.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",TELECINE PREMIUM
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3859.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",TELECINE TOUCHE
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5658.ts
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",TELECINE CULT
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3854.ts
+
+
+
+                  CANAIS  ADULTOS
+
+
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",PLAYBOY
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6608.ts
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",PINK O
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6613.ts
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",SEXTREME
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6609.ts
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",SEX HOT
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6610.ts
+
+#EXTINF:0 tvg-logo="" group-title="ADULTOS",VENUS
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
+
+#EXTINF:0  tvg-name="A&E FHD" tvg-logo="" group-title="FILMES/SÉRIES",A&E FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11063
+#EXTINF:0  tvg-name="A&E HD" tvg-logo="" group-title="FILMES/SÉRIES",A&E HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11062
+#EXTINF:0  tvg-name="A&E" tvg-logo="" group-title="FILMES/SÉRIES",A&E
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11064
+#EXTINF:0  tvg-name="AMC FHD" tvg-logo="" group-title="FILMES/SÉRIES",AMC FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11060
+#EXTINF:0  tvg-name="AMC HD" tvg-logo="" group-title="FILMES/SÉRIES",AMC HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11059
+#EXTINF:0  tvg-name="AMC" tvg-logo="" group-title="FILMES/SÉRIES",AMC
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11061
+#EXTINF:0  tvg-name="ANIMAL PLANET FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ANIMAL PLANET FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11057
+#EXTINF:0  tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ANIMAL PLANET HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11056
+#EXTINF:0  tvg-name="ANIMAL PLANET" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ANIMAL PLANET
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11058
+#EXTINF:0  tvg-name="ARTE 1 FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ARTE 1 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11054
+#EXTINF:0  tvg-name="ARTE 1 HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ARTE 1 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11053
+#EXTINF:0  tvg-name="ARTE 1" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ARTE 1
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11055
+#EXTINF:0  tvg-name="AXN FHD" tvg-logo="" group-title="FILMES/SÉRIES",AXN FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11051
+#EXTINF:0  tvg-name="AXN HD" tvg-logo="" group-title="FILMES/SÉRIES",AXN HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11050
+#EXTINF:0  tvg-name="AXN" tvg-logo="" group-title="FILMES/SÉRIES",AXN
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11052
+#EXTINF:0  tvg-name="BABY TV HD" tvg-logo="" group-title="INFANTIL",BABY TV HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11048
+#EXTINF:0  tvg-name="BABY TV" tvg-logo="" group-title="INFANTIL",BABY TV
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11049
+#EXTINF:0  tvg-name="BAND CAMPINAS" tvg-logo="" group-title="TV/ABERTA",BAND CAMPINAS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11047
+#EXTINF:0  tvg-name="BAND NEWS FHD" tvg-logo="" group-title="NOTÍCIAS",BAND NEWS FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11045
+#EXTINF:0  tvg-name="BAND NEWS HD" tvg-logo="" group-title="NOTÍCIAS",BAND NEWS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11044
+#EXTINF:0  tvg-name="BAND NEWS" tvg-logo="" group-title="NOTÍCIAS",BAND NEWS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11046
+#EXTINF:0  tvg-name="BAND NORDESTE" tvg-logo="" group-title="TV/ABERTA",BAND NORDESTE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11043
+#EXTINF:0  tvg-name="BAND SP FHD" tvg-logo="" group-title="TV/ABERTA",BAND SP FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11041
+#EXTINF:0  tvg-name="BAND SP HD" tvg-logo="" group-title="TV/ABERTA",BAND SP HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11040
+#EXTINF:0  tvg-name="BAND SP" tvg-logo="" group-title="TV/ABERTA",BAND SP
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11042
+#EXTINF:0  tvg-name="BAND SPORTS HD" tvg-logo="" group-title="ESPORTE",BAND SPORTS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11038
+#EXTINF:0  tvg-name="BAND SPORTS" tvg-logo="" group-title="ESPORTE",BAND SPORTS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11039
+#EXTINF:0  tvg-name="BIS HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",BIS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11036
+#EXTINF:0  tvg-name="BIS" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",BIS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11037
+#EXTINF:0  tvg-name="BOOMERANG FHD" tvg-logo="" group-title="INFANTIL",BOOMERANG FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11034
+#EXTINF:0  tvg-name="BOOMERANG HD" tvg-logo="" group-title="INFANTIL",BOOMERANG HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11033
+#EXTINF:0  tvg-name="BOOMERANG" tvg-logo="" group-title="INFANTIL",BOOMERANG
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11035
+#EXTINF:0  tvg-name="CANAL BRASIL" tvg-logo="" group-title="TV/ABERTA",CANAL BRASIL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11032
+#EXTINF:0  tvg-name="CANCÃO NOVA HD" tvg-logo="" group-title="TV/ABERTA",CANCÃO NOVA HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11030
+#EXTINF:0  tvg-name="CANÇÃO NOVA" tvg-logo="" group-title="TV/ABERTA",CANÇÃO NOVA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11031
+#EXTINF:0  tvg-name="CARTOON NETWORK FHD" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11028
+#EXTINF:0  tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11027
+#EXTINF:0  tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11029
+#EXTINF:0  tvg-name="CINEMAX FHD" tvg-logo="" group-title="FILMES/SÉRIES",CINEMAX FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11025
+#EXTINF:0  tvg-name="CINEMAX HD" tvg-logo="" group-title="FILMES/SÉRIES",CINEMAX HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11024
+#EXTINF:0  tvg-name="CINEMAX" tvg-logo="" group-title="FILMES/SÉRIES",CINEMAX
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11026
+#EXTINF:0  tvg-name="CLASSIQUE TV" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",CLASSIQUE TV
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11023
+#EXTINF:0  tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="NOTÍCIAS",CNN INTERNACIONAL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11022
+#EXTINF:0  tvg-name="CNT" tvg-logo="" group-title="NOTÍCIAS",CNT
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11021
+#EXTINF:0  tvg-name="COMBATE FHD" tvg-logo="" group-title="ESPORTE",COMBATE FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11019
+#EXTINF:0  tvg-name="COMBATE HD" tvg-logo="" group-title="ESPORTE",COMBATE HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11018
+#EXTINF:0  tvg-name="COMBATE" tvg-logo="" group-title="ESPORTE",COMBATE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11020
+#EXTINF:0  tvg-name="COMEDY CENTRAL FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",COMEDY CENTRAL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11016
+#EXTINF:0  tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",COMEDY CENTRAL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11015
+#EXTINF:0  tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",COMEDY CENTRAL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11017
+#EXTINF:0  tvg-name="CULTURA HD" tvg-logo="" group-title="TV/ABERTA",CULTURA HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11012
+#EXTINF:0  tvg-name="CULTURA" tvg-logo="" group-title="TV/ABERTA",CULTURA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11013
+#EXTINF:0  tvg-name="CURTA! HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",CURTA! HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11010
+#EXTINF:0  tvg-name="CURTA!" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",CURTA!
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11011
+#EXTINF:0  tvg-name="DAZN BRASIL FHD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11009
+#EXTINF:0  tvg-name="DAZN BRASIL HD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11008
+#EXTINF:0  tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11006
+#EXTINF:0  tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11005
+#EXTINF:0  tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CHANNEL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11007
+#EXTINF:0  tvg-name="DISCOVERY CIVILIZATION FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CIVILIZATION FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11003
+#EXTINF:0  tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CIVILIZATION HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11002
+#EXTINF:0  tvg-name="DISCOVERY CIVILIZATION" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CIVILIZATION
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11004
+#EXTINF:0  tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11000
+#EXTINF:0  tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10999
+#EXTINF:0  tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY HOME & HEALTH
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11001
+#EXTINF:0  tvg-name="DISCOVERY KIDS FHD" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10997
+#EXTINF:0  tvg-name="DISCOVERY KIDS HD" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10996
+#EXTINF:0  tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10998
+#EXTINF:0  tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10994
+#EXTINF:0  tvg-name="DISCOVERY SCIENCE HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10993
+#EXTINF:0  tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY SCIENCE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10995
+#EXTINF:0  tvg-name="DISCOVERY THEATER FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY THEATER FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10991
+#EXTINF:0  tvg-name="DISCOVERY THEATER HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY THEATER HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10990
+#EXTINF:0  tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY THEATER
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10992
+#EXTINF:0  tvg-name="DISCOVERY TLC HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY TLC HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10988
+#EXTINF:0  tvg-name="DISCOVERY TLC" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY TLC
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10989
+#EXTINF:0  tvg-name="DISCOVERY TURBO FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY TURBO FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10986
+#EXTINF:0  tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY TURBO HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10985
+#EXTINF:0  tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY TURBO
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10987
+#EXTINF:0  tvg-name="DISCOVERY WORLD FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY WORLD FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10983
+#EXTINF:0  tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY WORLD HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10982
+#EXTINF:0  tvg-name="DISCOVERY WORLD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY WORLD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10984
+#EXTINF:0  tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10980
+#EXTINF:0  tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10979
+#EXTINF:0  tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10981
+#EXTINF:0  tvg-name="DISNEY JR FHD" tvg-logo="" group-title="INFANTIL",DISNEY JR FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10977
+#EXTINF:0  tvg-name="DISNEY JR HD" tvg-logo="" group-title="INFANTIL",DISNEY JR HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10976
+#EXTINF:0  tvg-name="DISNEY JR" tvg-logo="" group-title="INFANTIL",DISNEY JR
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10978
+#EXTINF:0  tvg-name="DISNEY XD FHD" tvg-logo="" group-title="INFANTIL",DISNEY XD FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10974
+#EXTINF:0  tvg-name="DISNEY XD HD" tvg-logo="" group-title="INFANTIL",DISNEY XD HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10973
+#EXTINF:0  tvg-name="DISNEY XD" tvg-logo="" group-title="INFANTIL",DISNEY XD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10975
+#EXTINF:0  tvg-name="E! HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",E! HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10971
+#EXTINF:0  tvg-name="E!" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",E!
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10972
+#EXTINF:0  tvg-name="EI PLUS" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",EI PLUS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10970
+#EXTINF:0  tvg-name="ESPN  FHD" tvg-logo="" group-title="ESPORTE",ESPN  FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10968
+#EXTINF:0  tvg-name="ESPN  HD" tvg-logo="" group-title="ESPORTE",ESPN  HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10967
+#EXTINF:0  tvg-name="ESPN BRASIL FHD" tvg-logo="" group-title="ESPORTE",ESPN BRASIL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10965
+#EXTINF:0  tvg-name="ESPN BRASIL HD" tvg-logo="" group-title="ESPORTE",ESPN BRASIL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10964
+#EXTINF:0  tvg-name="ESPN BRASIL" tvg-logo="" group-title="ESPORTE",ESPN BRASIL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10966
+#EXTINF:0  tvg-name="ESPN FHD" tvg-logo="" group-title="ESPORTE",ESPN FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10963
+#EXTINF:0  tvg-name="ESPN HD" tvg-logo="" group-title="ESPORTE",ESPN HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10962
+#EXTINF:0  tvg-name="ESPN" tvg-logo="" group-title="ESPORTE",ESPN
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10969
+#EXTINF:0  tvg-name="FISH TV HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",FISH TV HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10960
+#EXTINF:0  tvg-name="FISH TV" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",FISH TV
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10961
+#EXTINF:0  tvg-name="FOOD NETWORK FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",FOOD NETWORK FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10958
+#EXTINF:0  tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",FOOD NETWORK HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10957
+#EXTINF:0  tvg-name="FOOD NETWORK" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",FOOD NETWORK
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10959
+#EXTINF:0  tvg-name="FOX FHD" tvg-logo="" group-title="FILMES/SÉRIES",FOX FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10955
+#EXTINF:0  tvg-name="FOX HD" tvg-logo="" group-title="FILMES/SÉRIES",FOX HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10954
+#EXTINF:0  tvg-name="FOX LIFE HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",FOX LIFE HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10952
+#EXTINF:0  tvg-name="FOX LIFE" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",FOX LIFE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10953
+#EXTINF:0  tvg-name="FOX PREMIUM 1 FHD" tvg-logo="" group-title="FILMES/SÉRIES",FOX PREMIUM 1 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10950
+#EXTINF:0  tvg-name="FOX PREMIUM 1 HD" tvg-logo="" group-title="FILMES/SÉRIES",FOX PREMIUM 1 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10949
+#EXTINF:0  tvg-name="FOX PREMIUM 1" tvg-logo="" group-title="FILMES/SÉRIES",FOX PREMIUM 1
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10951
+#EXTINF:0  tvg-name="FOX PREMIUM 2 FHD" tvg-logo="" group-title="FILMES/SÉRIES",FOX PREMIUM 2 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10947
+#EXTINF:0  tvg-name="FOX PREMIUM 2 HD" tvg-logo="" group-title="FILMES/SÉRIES",FOX PREMIUM 2 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10946
+#EXTINF:0  tvg-name="FOX PREMIUM 2" tvg-logo="" group-title="FILMES/SÉRIES",FOX PREMIUM 2
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10948
+#EXTINF:0  tvg-name="FOX SPORTS 2 FHD" tvg-logo="" group-title="ESPORTE",FOX SPORTS 2 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10943
+#EXTINF:0  tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="ESPORTE",FOX SPORTS 2 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10942
+#EXTINF:0  tvg-name="FOX SPORTS 2" tvg-logo="" group-title="ESPORTE",FOX SPORTS 2
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10944
+#EXTINF:0  tvg-name="FOX SPORTS FHD" tvg-logo="" group-title="ESPORTE",FOX SPORTS FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10941
+#EXTINF:0  tvg-name="FOX SPORTS HD" tvg-logo="" group-title="ESPORTE",FOX SPORTS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10940
+#EXTINF:0  tvg-name="FOX SPORTS" tvg-logo="" group-title="ESPORTE",FOX SPORTS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10945
+#EXTINF:0  tvg-name="FOX" tvg-logo="" group-title="FILMES/SÉRIES",FOX
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10956
+#EXTINF:0  tvg-name="FUTURA HD" tvg-logo="" group-title="TV/ABERTA",FUTURA HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10938
+#EXTINF:0  tvg-name="FUTURA" tvg-logo="" group-title="TV TV/ABERTA",FUTURA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10939
+#EXTINF:0  tvg-name="FX FHD" tvg-logo="" group-title="FILMES/SÉRIES",FX FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10936
+#EXTINF:0  tvg-name="FX HD" tvg-logo="" group-title="FILMES/SÉRIES",FX HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10935
+#EXTINF:0  tvg-name="FX" tvg-logo="" group-title="FILMES/SÉRIES",FX
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10937
+#EXTINF:0  tvg-name="GLOBO AMAZONAS" tvg-logo="" group-title="TV/ABERTA",GLOBO AMAZONAS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10934
+#EXTINF:0  tvg-name="GLOBO ANHANGUERA GOIANIA" tvg-logo="" group-title="TV/ABERTA",GLOBO ANHANGUERA GOIANIA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10933
+#EXTINF:0  tvg-name="GLOBO BAHIA" tvg-logo="" group-title="TV/ABERTA",GLOBO BAHIA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10932
+#EXTINF:0  tvg-name="GLOBO BRASILIA" tvg-logo="" group-title="TV/ABERTA",GLOBO BRASILIA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10931
+#EXTINF:0  tvg-name="GLOBO CUIABA" tvg-logo="" group-title="TV/ABERTA",GLOBO CUIABA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10930
+#EXTINF:0  tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="" group-title="TV/ABERTA",GLOBO EPTV CAMPINAS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10928
+#EXTINF:0  tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="" group-title="TV/ABERTA",GLOBO EPTV CAMPINAS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10929
+#EXTINF:0  tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="" group-title="TV/ABERTA",GLOBO EPTV RIBEIRÃO PRETO FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10927
+#EXTINF:0  tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="" group-title="TV/ABERTA",GLOBO EPTV SAO CARLOS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10926
+#EXTINF:0  tvg-name="GLOBO INTERNACIONAL" tvg-logo="" group-title="TV/ABERTA",GLOBO INTERNACIONAL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10925
+#EXTINF:0  tvg-name="GLOBO INTERTV CABUGI RN" tvg-logo="" group-title="TV/ABERTA",GLOBO INTERTV CABUGI RN
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10924
+#EXTINF:0  tvg-name="GLOBO MINAS FHD" tvg-logo="" group-title="TV/ABERTA",GLOBO MINAS FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10922
+#EXTINF:0  tvg-name="GLOBO MINAS HD" tvg-logo="" group-title="TV/ABERTA",GLOBO MINAS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10921
+#EXTINF:0  tvg-name="GLOBO MINAS" tvg-logo="" group-title="TV/ABERTA",GLOBO MINAS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10923
+#EXTINF:0  tvg-name="GLOBO NEWS FHD" tvg-logo="" group-title="NOTÍCIAS",GLOBO NEWS FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10919
+#EXTINF:0  tvg-name="GLOBO NEWS HD" tvg-logo="" group-title="NOTÍCIAS",GLOBO NEWS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10918
+#EXTINF:0  tvg-name="GLOBO NEWS" tvg-logo="" group-title="NOTÍCIAS",GLOBO NEWS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10920
+#EXTINF:0  tvg-name="GLOBO NORDESTE FHD" tvg-logo="" group-title="TV/ABERTA",GLOBO NORDESTE FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10916
+#EXTINF:0  tvg-name="GLOBO NORDESTE HD" tvg-logo="" group-title="TV/ABERTA",GLOBO NORDESTE HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10915
+#EXTINF:0  tvg-name="GLOBO NORDESTE" tvg-logo="" group-title="TV/ABERTA",GLOBO NORDESTE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10917
+#EXTINF:0  tvg-name="GLOBO RBS PORTO ALEGRE" tvg-logo="" group-title="TV/ABERTA",GLOBO RBS PORTO ALEGRE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10914
+#EXTINF:0  tvg-name="GLOBO RIBEIRÃO PRETO" tvg-logo="" group-title="TV/ABERTA",GLOBO RIBEIRÃO PRETO
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10913
+#EXTINF:0  tvg-name="GLOBO RIO GRANDE DO NORTE" tvg-logo="" group-title="TV/ABERTA",GLOBO RIO GRANDE DO NORTE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10912
+#EXTINF:0  tvg-name="GLOBO RJ FHD" tvg-logo="" group-title="TV/ABERTA",GLOBO RJ FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10910
+#EXTINF:0  tvg-name="GLOBO RJ HD" tvg-logo="" group-title="TV/ABERTA",GLOBO RJ HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10909
+#EXTINF:0  tvg-name="GLOBO RJ" tvg-logo="" group-title="TV/ABERTA",GLOBO RJ
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10911
+#EXTINF:0  tvg-name="GLOBO RPC TV FHD" tvg-logo="" group-title="TV/ABERTA",GLOBO RPC TV FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10908
+#EXTINF:0  tvg-name="GLOBO RPC TV HD" tvg-logo="" group-title="TV/ABERTA",GLOBO RPC TV HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10907
+#EXTINF:0  tvg-name="GLOBO SP FHD" tvg-logo="" group-title="TV/ABERTA",GLOBO SP FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10905
+#EXTINF:0  tvg-name="GLOBO SP HD" tvg-logo="" group-title="TV/ABERTA",GLOBO SP HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10904
+#EXTINF:0  tvg-name="GLOBO SP" tvg-logo="" group-title="TV/ABERTA",GLOBO SP
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10906
+#EXTINF:0  tvg-name="GLOBO TV BELEM" tvg-logo="" group-title="TV/ABERTA",GLOBO TV BELEM
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10903
+#EXTINF:0  tvg-name="GLOBO TV TEM BAURU" tvg-logo="" group-title="TV/ABERTA",GLOBO TV TEM BAURU
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10902
+#EXTINF:0  tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="" group-title="TV/ABERTA",GLOBO TV TEM SOROCABA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10901
+#EXTINF:0  tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="" group-title="TV/ABERTA",GLOBO TV TRIBUNA SANTOS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10900
+#EXTINF:0  tvg-name="GLOBO TV VANGUARDA S.J DOS CAMPOS" tvg-logo="" group-title="TV/ABERTA",GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10899
+#EXTINF:0  tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="" group-title="TV/ABERTA",GLOBO TV VERDES MARES FORTALEZA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10898
+#EXTINF:0  tvg-name="GLOBOSAT HD" tvg-logo="" group-title="TV/ABERTA",GLOBOSAT HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10896
+#EXTINF:0  tvg-name="GLOBOSAT" tvg-logo="" group-title="TV/ABERTA",GLOBOSAT
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10897
+#EXTINF:0  tvg-name="GLOOB FHD" tvg-logo="" group-title="INFANTIL",GLOOB FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10894
+#EXTINF:0  tvg-name="GLOOB HD" tvg-logo="" group-title="INFANTIL",GLOOB HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10893
+#EXTINF:0  tvg-name="GLOOB" tvg-logo="" group-title="INFANTIL",GLOOB
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10895
+#EXTINF:0  tvg-name="GNT HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",GNT HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10891
+#EXTINF:0  tvg-name="GNT" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",GNT
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10892
+#EXTINF:0  tvg-name="H2 FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",H2 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10889
+#EXTINF:0  tvg-name="H2 HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",H2 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10888
+#EXTINF:0  tvg-name="H2" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",H2
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10890
+#EXTINF:0  tvg-name="HBO 2 FHD" tvg-logo="" group-title="FILMES/SÉRIES",HBO 2 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10885
+#EXTINF:0  tvg-name="HBO 2 HD" tvg-logo="" group-title="FILMES/SÉRIES",HBO 2 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10884
+#EXTINF:0  tvg-name="HBO 2" tvg-logo="" group-title="FILMES/SÉRIES",HBO 2
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10886
+#EXTINF:0  tvg-name="HBO FAMILY HD" tvg-logo="" group-title="FILMES/SÉRIES",HBO FAMILY HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10882
+#EXTINF:0  tvg-name="HBO FAMILY" tvg-logo="" group-title="FILMES/SÉRIES",HBO FAMILY
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10883
+#EXTINF:0  tvg-name="HBO FHD" tvg-logo="" group-title="FILMES/SÉRIES",HBO FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10881
+#EXTINF:0  tvg-name="HBO HD" tvg-logo="" group-title="FILMES/SÉRIES",HBO HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10880
+#EXTINF:0  tvg-name="HBO PLUS FHD" tvg-logo="" group-title="FILMES/SÉRIES",HBO PLUS FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10878
+#EXTINF:0  tvg-name="HBO PLUS HD" tvg-logo="" group-title="FILMES/SÉRIES",HBO PLUS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10877
+#EXTINF:0  tvg-name="HBO PLUS*E HD" tvg-logo="" group-title="FILMES/SÉRIES",HBO PLUS*E HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10875
+#EXTINF:0  tvg-name="HBO PLUS*E" tvg-logo="" group-title="FILMES/SÉRIES",HBO PLUS*E
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10876
+#EXTINF:0  tvg-name="HBO PLUS" tvg-logo="" group-title="FILMES/SÉRIES",HBO PLUS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10879
+#EXTINF:0  tvg-name="HBO SIGNATURE FHD" tvg-logo="" group-title="FILMES/SÉRIES",HBO SIGNATURE FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10873
+#EXTINF:0  tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="FILMES/SÉRIES",HBO SIGNATURE HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10872
+#EXTINF:0  tvg-name="HBO SIGNATURE" tvg-logo="" group-title="FILMES/SÉRIES",HBO SIGNATURE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10874
+#EXTINF:0  tvg-name="HBO" tvg-logo="" group-title="FILMES/SÉRIES",HBO
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10887
+#EXTINF:0  tvg-name="HISTORY CHANNEL FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",HISTORY CHANNEL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10870
+#EXTINF:0  tvg-name="HISTORY CHANNEL HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",HISTORY CHANNEL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10869
+#EXTINF:0  tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",HISTORY CHANNEL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10871
+#EXTINF:0  tvg-name="I-SAT" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",I-SAT
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10868
+#EXTINF:0  tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10866
+#EXTINF:0  tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10865
+#EXTINF:0  tvg-name="ID - INVESTIGAÇÃO DISCOVERY" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10867
+#EXTINF:0  tvg-name="LIFETIME HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",LIFETIME HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10863
+#EXTINF:0  tvg-name="LIFETIME" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",LIFETIME
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10864
+#EXTINF:0  tvg-name="MAX HD" tvg-logo="" group-title="FILMES/SÉRIES",MAX HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10861
+#EXTINF:0  tvg-name="MAX PRIME FHD" tvg-logo="" group-title="FILMES/SÉRIES",MAX PRIME FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10859
+#EXTINF:0  tvg-name="MAX PRIME HD" tvg-logo="" group-title="FILMES/SÉRIES",MAX PRIME HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10858
+#EXTINF:0  tvg-name="MAX PRIME*E HD" tvg-logo="" group-title="FILMES/SÉRIES",MAX PRIME*E HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10856
+#EXTINF:0  tvg-name="MAX PRIME*E" tvg-logo="" group-title="FILMES/SÉRIES",MAX PRIME*E
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10857
+#EXTINF:0  tvg-name="MAX PRIME" tvg-logo="" group-title="FILMES/SÉRIES",MAX PRIME
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10860
+#EXTINF:0  tvg-name="MAX UP HD" tvg-logo="" group-title="FILMES/SÉRIES",MAX UP HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10854
+#EXTINF:0  tvg-name="MAX UP" tvg-logo="" group-title="FILMES/SÉRIES",MAX UP
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10855
+#EXTINF:0  tvg-name="MAX" tvg-logo="" group-title="FILMES/SÉRIES",MAX
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10862
+#EXTINF:0  tvg-name="MEGAPIX FHD" tvg-logo="" group-title="FILMES/SÉRIES",MEGAPIX FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10852
+#EXTINF:0  tvg-name="MEGAPIX HD" tvg-logo="" group-title="FILMES/SÉRIES",MEGAPIX HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10851
+#EXTINF:0  tvg-name="MEGAPIX" tvg-logo="" group-title="FILMES/SÉRIES",MEGAPIX
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10853
+#EXTINF:0  tvg-name="MTV FHD" tvg-logo="" group-title="VARIEDADES/MÚSICAS",MTV FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10849
+#EXTINF:0  tvg-name="MTV HD" tvg-logo="" group-title="VARIEDADES/MÚSICAS",MTV HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10848
+#EXTINF:0  tvg-name="MTV LIVE FHD" tvg-logo="" group-title="VARIEDADES/MÚSICAS",MTV LIVE FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10847
+#EXTINF:0  tvg-name="MTV LIVE HD" tvg-logo="" group-title="VARIEDADES/MÚSICAS",MTV LIVE HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10846
+#EXTINF:0  tvg-name="MTV" tvg-logo="" group-title="VARIEDADES/MÚSICAS",MTV
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10850
+#EXTINF:0  tvg-name="MULTISHOW FHD" tvg-logo="" group-title="VARIEDADES/MÚSICAS",MULTISHOW FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10844
+#EXTINF:0  tvg-name="MULTISHOW HD" tvg-logo="" group-title="VARIEDADES/MÚSICAS",MULTISHOW HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10843
+#EXTINF:0  tvg-name="MULTISHOW" tvg-logo="" group-title="VARIEDADES/MÚSICAS",MULTISHOW
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10845
+#EXTINF:0  tvg-name="MUSIC BOX BRAZIL" tvg-logo="" group-title="VARIEDADES/MÚSICAS",MUSIC BOX BRAZIL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10842
+#EXTINF:0  tvg-name="NAT GEO KIDS FHD" tvg-logo="" group-title="INFANTIL",NAT GEO KIDS FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10841
+#EXTINF:0  tvg-name="NATGEO FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",NATGEO FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10840
+#EXTINF:0  tvg-name="NATGEO KIDS HD" tvg-logo="" group-title="INFANTIL",NATGEO KIDS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10838
+#EXTINF:0  tvg-name="NATGEO WILD FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",NATGEO WILD FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10836
+#EXTINF:0  tvg-name="NATGEO WILD HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",NATGEO WILD HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10835
+#EXTINF:0  tvg-name="NATGEO WILD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",NATGEO WILD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10837
+#EXTINF:0  tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",NATIONAL GEOGRAPHIC FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10833
+#EXTINF:0  tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10832
+#EXTINF:0  tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10834
+#EXTINF:0  tvg-name="NICK JR FHD" tvg-logo="" group-title="INFANTIL",NICK JR FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10830
+#EXTINF:0  tvg-name="NICK JR HD" tvg-logo="" group-title="INFANTIL",NICK JR HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10829
+#EXTINF:0  tvg-name="NICK JR" tvg-logo="" group-title="INFANTIL",NICK JR
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10831
+#EXTINF:0  tvg-name="NICKELODEON HD" tvg-logo="" group-title="INFANTIL",NICKELODEON HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10827
+#EXTINF:0  tvg-name="NICKELODEON" tvg-logo="" group-title="INFANTIL",NICKELODEON
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10828
+#EXTINF:0  tvg-name="NOVO TEMPO" tvg-logo="" group-title="TV/ABERTA",NOVO TEMPO
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10826
+#EXTINF:0  tvg-name="OFF HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",OFF HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10824
+#EXTINF:0  tvg-name="OFF" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",OFF
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10825
+#EXTINF:0  tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="" group-title="FILMES/SÉRIES",PARAMOUNT CHANNEL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10822
+#EXTINF:0  tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FILMES/SÉRIES",PARAMOUNT CHANNEL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10821
+#EXTINF:0  tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="FILMES/SÉRIES",PARAMOUNT CHANNEL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10823
+#EXTINF:0  tvg-name="PLAY TV" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",PLAY TV
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10820
+#EXTINF:0  tvg-name="PREMIERE 1" tvg-logo="" group-title="ESPORTE",PREMIERE 1
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10819
+#EXTINF:0  tvg-name="PREMIERE 2 FHD" tvg-logo="" group-title="ESPORTE",PREMIERE 2 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10817
+#EXTINF:0  tvg-name="PREMIERE 2 HD" tvg-logo="" group-title="ESPORTE",PREMIERE 2 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10816
+#EXTINF:0  tvg-name="PREMIERE 2" tvg-logo="" group-title="ESPORTE",PREMIERE 2
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10818
+#EXTINF:0  tvg-name="PREMIERE 3 FHD" tvg-logo="" group-title="ESPORTE",PREMIERE 3 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10814
+#EXTINF:0  tvg-name="PREMIERE 3 HD" tvg-logo="" group-title="ESPORTE",PREMIERE 3 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10813
+#EXTINF:0  tvg-name="PREMIERE 3" tvg-logo="" group-title="ESPORTE",PREMIERE 3
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10815
+#EXTINF:0  tvg-name="PREMIERE 4 FHD" tvg-logo="" group-title="ESPORTE",PREMIERE 4 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10811
+#EXTINF:0  tvg-name="PREMIERE 4 HD" tvg-logo="" group-title="ESPORTE",PREMIERE 4 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10810
+#EXTINF:0  tvg-name="PREMIERE 4" tvg-logo="" group-title="ESPORTE",PREMIERE 4
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10812
+#EXTINF:0  tvg-name="PREMIERE 5 FHD" tvg-logo="" group-title="ESPORTE",PREMIERE 5 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10808
+#EXTINF:0  tvg-name="PREMIERE 5 HD" tvg-logo="" group-title="ESPORTE",PREMIERE 5 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10807
+#EXTINF:0  tvg-name="PREMIERE 5" tvg-logo="" group-title="ESPORTE",PREMIERE 5
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10809
+#EXTINF:0  tvg-name="PREMIERE 6 FHD" tvg-logo="" group-title="ESPORTE",PREMIERE 6 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10805
+#EXTINF:0  tvg-name="PREMIERE 6" tvg-logo="" group-title="ESPORTE",PREMIERE 6
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10806
+#EXTINF:0  tvg-name="PREMIERE 7" tvg-logo="" group-title="ESPORTE",PREMIERE 7
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10804
+#EXTINF:0  tvg-name="PREMIERE 8" tvg-logo="" group-title="ESPORTE",PREMIERE 8
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10803
+#EXTINF:0  tvg-name="PREMIERE CLUBES FHD" tvg-logo="" group-title="ESPORTE",PREMIERE CLUBES FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10801
+#EXTINF:0  tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="ESPORTE",PREMIERE CLUBES HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10800
+#EXTINF:0  tvg-name="PREMIERE CLUBES" tvg-logo="" group-title="ESPORTE",PREMIERE CLUBES
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10802
+#EXTINF:0  tvg-name="RECORD AMAZONAS" tvg-logo="" group-title="TV/ABERTA",RECORD AMAZONAS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10799
+#EXTINF:0  tvg-name="RECORD CAMPINAS HD" tvg-logo="" group-title="TV/ABERTA",RECORD CAMPINAS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10797
+#EXTINF:0  tvg-name="RECORD CAMPINAS" tvg-logo="" group-title="TV/ABERTA",RECORD CAMPINAS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10798
+#EXTINF:0  tvg-name="RECORD DF" tvg-logo="" group-title="TV/ABERTA",RECORD DF
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10796
+#EXTINF:0  tvg-name="RECORD ESP. SANTO" tvg-logo="" group-title="TV/ABERTA",RECORD ESP. SANTO
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10795
+#EXTINF:0  tvg-name="RECORD FHD" tvg-logo="" group-title="TV/ABERTA",RECORD FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10794
+#EXTINF:0  tvg-name="RECORD MG" tvg-logo="" group-title="TV/ABERTA",RECORD MG
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10793
+#EXTINF:0  tvg-name="RECORD NEWS FHD" tvg-logo="" group-title="NOTÍCIAS",RECORD NEWS FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10791
+#EXTINF:0  tvg-name="RECORD NEWS HD" tvg-logo="" group-title="NOTÍCIAS",RECORD NEWS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10790
+#EXTINF:0  tvg-name="RECORD NEWS" tvg-logo="" group-title="NOTÍCIAS",RECORD NEWS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10792
+#EXTINF:0  tvg-name="RECORD NORDESTE HD" tvg-logo="" group-title="TV/ABERTA",RECORD NORDESTE HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10789
+#EXTINF:0  tvg-name="RECORD RJ" tvg-logo="" group-title="TV/ABERTA",RECORD RJ
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10788
+#EXTINF:0  tvg-name="RECORD SP HD" tvg-logo="" group-title="TV/ABERTA",RECORD SP HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10786
+#EXTINF:0  tvg-name="RECORD SP" tvg-logo="" group-title="TV/ABERTA",RECORD SP
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10787
+#EXTINF:0  tvg-name="REDE FAMILIA" tvg-logo="" group-title="TV/ABERTA",REDE FAMILIA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10785
+#EXTINF:0  tvg-name="REDE TV HD" tvg-logo="" group-title="TV/ABERTA",REDE TV HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10783
+#EXTINF:0  tvg-name="REDE TV" tvg-logo="" group-title="TV/ABERTA",REDE TV
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10784
+#EXTINF:0  tvg-name="REDE VIDA HD" tvg-logo="" group-title="TV/ABERTA",REDE VIDA HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10781
+#EXTINF:0  tvg-name="REDE VIDA" tvg-logo="" group-title="TV/ABERTA",REDE VIDA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10782
+#EXTINF:0  tvg-name="RIT TV" tvg-logo="" group-title="TV/ABERTA",RIT TV
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10780
+#EXTINF:0  tvg-name="SBT FHD" tvg-logo="" group-title="TV/ABERTA",SBT FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10778
+#EXTINF:0  tvg-name="SBT GOIAS HD" tvg-logo="" group-title="TV/ABERTA",SBT GOIAS HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10777
+#EXTINF:0  tvg-name="SBT HD" tvg-logo="" group-title="TV/ABERTA",SBT HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10776
+#EXTINF:0  tvg-name="SBT NORDESTE FHD" tvg-logo="" group-title="TV/ABERTA",SBT NORDESTE FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10775
+#EXTINF:0  tvg-name="SBT NORDESTE HD" tvg-logo="" group-title="TV/ABERTA",SBT NORDESTE HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10774
+#EXTINF:0  tvg-name="SBT TV CIDADE VERDE PIAUI" tvg-logo="" group-title="TV/ABERTA",SBT TV CIDADE VERDE PIAUI
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10773
+#EXTINF:0  tvg-name="SBT TV JORNAL PERNAMBUCO" tvg-logo="" group-title="TV/ABERTA",SBT TV JORNAL PERNAMBUCO
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10772
+#EXTINF:0  tvg-name="SBT" tvg-logo="" group-title="TV/ABERTA",SBT
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10779
+#EXTINF:0  tvg-name="SONY FHD" tvg-logo="" group-title="FILMES/SÉRIES",SONY FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10770
+#EXTINF:0  tvg-name="SONY HD" tvg-logo="" group-title="FILMES/SÉRIES",SONY HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10769
+#EXTINF:0  tvg-name="SONY" tvg-logo="" group-title="FILMES/SÉRIES",SONY
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10771
+#EXTINF:0  tvg-name="SPACE FHD" tvg-logo="" group-title="FILMES/SÉRIES",SPACE FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10767
+#EXTINF:0  tvg-name="SPACE HD" tvg-logo="" group-title="FILMES/SÉRIES",SPACE HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10766
+#EXTINF:0  tvg-name="SPACE" tvg-logo="" group-title="FILMES/SÉRIES",SPACE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10768
+#EXTINF:0  tvg-name="SPORTV 2 FHD" tvg-logo="" group-title="ESPORTE",SPORTV 2 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10763
+#EXTINF:0  tvg-name="SPORTV 2 HD" tvg-logo="" group-title="ESPORTE",SPORTV 2 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10762
+#EXTINF:0  tvg-name="SPORTV 2" tvg-logo="" group-title="ESPORTE",SPORTV 2
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10764
+#EXTINF:0  tvg-name="SPORTV 3 FHD" tvg-logo="" group-title="ESPORTE",SPORTV 3 FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10760
+#EXTINF:0  tvg-name="SPORTV 3 HD" tvg-logo="" group-title="ESPORTE",SPORTV 3 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10759
+#EXTINF:0  tvg-name="SPORTV 3" tvg-logo="" group-title="ESPORTE",SPORTV 3
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10761
+#EXTINF:0  tvg-name="SPORTV FHD" tvg-logo="" group-title="ESPORTE",SPORTV FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10758
+#EXTINF:0  tvg-name="SPORTV HD" tvg-logo="" group-title="ESPORTE",SPORTV HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10757
+#EXTINF:0  tvg-name="SPORTV" tvg-logo="" group-title="ESPORTE",SPORTV
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10765
+#EXTINF:0  tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="" group-title="FILMES/SÉRIES",STUDIO UNIVERSAL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10755
+#EXTINF:0  tvg-name="STUDIO UNIVERSAL HD" tvg-logo="" group-title="FILMES/SÉRIES",STUDIO UNIVERSAL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10754
+#EXTINF:0  tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title="FILMES/SÉRIES",STUDIO UNIVERSAL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10756
+#EXTINF:0  tvg-name="SYFY FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",SYFY FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10752
+#EXTINF:0  tvg-name="SYFY HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",SYFY HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10751
+#EXTINF:0  tvg-name="SYFY" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",SYFY
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10753
+#EXTINF:0  tvg-name="TBS" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",TBS
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10750
+#EXTINF:0  tvg-name="TCM" tvg-logo="" group-title="FILMES/SÉRIES",TCM
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10749
+#EXTINF:0  tvg-name="TELECINE ACTION FHD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE ACTION FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10747
+#EXTINF:0  tvg-name="TELECINE ACTION HD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE ACTION HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10746
+#EXTINF:0  tvg-name="TELECINE ACTION" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE ACTION
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10748
+#EXTINF:0  tvg-name="TELECINE CULT FHD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE CULT FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10744
+#EXTINF:0  tvg-name="TELECINE CULT HD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE CULT HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10743
+#EXTINF:0  tvg-name="TELECINE CULT" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE CULT
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10745
+#EXTINF:0  tvg-name="TELECINE FUN FHD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE FUN FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10741
+#EXTINF:0  tvg-name="TELECINE FUN HD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE FUN HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10740
+#EXTINF:0  tvg-name="TELECINE FUN" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE FUN
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10742
+#EXTINF:0  tvg-name="TELECINE PIPOCA FHD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE PIPOCA FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10738
+#EXTINF:0  tvg-name="TELECINE PIPOCA HD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE PIPOCA HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10737
+#EXTINF:0  tvg-name="TELECINE PIPOCA" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE PIPOCA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10739
+#EXTINF:0  tvg-name="TELECINE PREMIUM FHD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE PREMIUM FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10735
+#EXTINF:0  tvg-name="TELECINE PREMIUM HD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE PREMIUM HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10734
+#EXTINF:0  tvg-name="TELECINE PREMIUM" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE PREMIUM
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10736
+#EXTINF:0  tvg-name="TELECINE TOUCH FHD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE TOUCH FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10732
+#EXTINF:0  tvg-name="TELECINE TOUCH HD" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE TOUCH HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10731
+#EXTINF:0  tvg-name="TELECINE TOUCH" tvg-logo="" group-title="FILMES/SÉRIES",TELECINE TOUCH
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10733
+#EXTINF:0  tvg-name="TERRA VIVA" tvg-logo="" group-title="TV/ABERTA",TERRA VIVA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10730
+#EXTINF:0  tvg-name="TNT FHD" tvg-logo="" group-title="FILMES/SÉRIES",TNT FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10728
+#EXTINF:0  tvg-name="TNT HD" tvg-logo="" group-title="FILMES/SÉRIES",TNT HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10727
+#EXTINF:0  tvg-name="TNT SÉRIES FHD" tvg-logo="" group-title="FILMES/SÉRIES",TNT SÉRIES FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10725
+#EXTINF:0  tvg-name="TNT SÉRIES HD" tvg-logo="" group-title="FILMES/SÉRIES",TNT SÉRIES HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10724
+#EXTINF:0  tvg-name="TNT SÉRIES" tvg-logo="" group-title="FILMES/SÉRIES",TNT SÉRIES
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10726
+#EXTINF:0  tvg-name="TNT" tvg-logo="" group-title="FILMES/SÉRIES",TNT
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10729
+#EXTINF:0  tvg-name="TOONCAST HD" tvg-logo="" group-title="INFANTIL",TOONCAST HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10722
+#EXTINF:0  tvg-name="TOONCAST" tvg-logo="" group-title="INFANTIL",TOONCAST
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10723
+#EXTINF:0  tvg-name="TV APARECIDA" tvg-logo="" group-title="TV/ABERTA",TV APARECIDA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10721
+#EXTINF:0  tvg-name="TV BOA VONTADE" tvg-logo="" group-title="TV/ABERTA",TV BOA VONTADE
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10720
+#EXTINF:0  tvg-name="TV ESCOLA" tvg-logo="" group-title="TV/ABERTA",TV ESCOLA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10719
+#EXTINF:0  tvg-name="TV GAZETA" tvg-logo="" group-title="TV/ABERTA",TV GAZETA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10718
+#EXTINF:0  tvg-name="TV JUSTIÇA" tvg-logo="" group-title="TV/ABERTA",TV JUSTIÇA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10717
+#EXTINF:0  tvg-name="TV SENADO" tvg-logo="" group-title="TV/ABERTA",TV SENADO
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10716
+#EXTINF:0  tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="" group-title="FILMES/SÉRIES",UNIVERSAL CHANNEL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10714
+#EXTINF:0  tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" group-title="FILMES/SÉRIES",UNIVERSAL CHANNEL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10713
+#EXTINF:0  tvg-name="UNIVERSAL CHANNEL" tvg-logo="" group-title="FILMES/SÉRIES",UNIVERSAL CHANNEL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10715
+#EXTINF:0  tvg-name="VH1 HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",VH1 HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10711
+#EXTINF:0  tvg-name="VH1" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",VH1
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10712
+#EXTINF:0  tvg-name="VIVA FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",VIVA FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10709
+#EXTINF:0  tvg-name="VIVA HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",VIVA HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10708
+#EXTINF:0  tvg-name="VIVA" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",VIVA
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10710
+#EXTINF:0  tvg-name="WARNER CHANNEL FHD" tvg-logo="" group-title="FILMES/SÉRIES",WARNER CHANNEL FHD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10706
+#EXTINF:0  tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="FILMES/SÉRIES",WARNER CHANNEL HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10705
+#EXTINF:0  tvg-name="WARNER CHANNEL" tvg-logo="" group-title="FILMES/SÉRIES",WARNER CHANNEL
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10707
+#EXTINF:0  tvg-name="WOOHOO HD" tvg-logo="" group-title="INFANTIL",WOOHOO HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10703
+#EXTINF:0  tvg-name="WOOHOO" tvg-logo="" group-title="INFANTIL",WOOHOO
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10704
+#EXTINF:0  tvg-name="ZOOMOO HD" tvg-logo="" group-title="INFANTIL",ZOOMOO HD
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10701
+#EXTINF:0  tvg-name="ZOOMOO" tvg-logo="" group-title="INFANTIL",ZOOMOO
+http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10702
