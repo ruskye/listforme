@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTSIZE: Big
+#EXTBG: #11609e
 
 #EXTINF:0 tvg-logo="" group-title="ADULTOS",PLAYBOY
 http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6608.ts
