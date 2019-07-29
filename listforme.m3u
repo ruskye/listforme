@@ -17,10 +17,10 @@ http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
 
 #EXTINF:0  tvg-name="A&E FHD" tvg-logo="" group-title="FILMES/SÉRIES",A&E FHD
 #EXTSIZE: Medium 
-#EXTBG: #11609e
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11063
 
 #EXTINF:0  tvg-name="A&E HD" tvg-logo="" group-title="FILMES/SÉRIES",A&E HD
+EXTSIZE: Medium
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11062
 
 #EXTINF:0  tvg-name="A&E" tvg-logo="" group-title="FILMES/SÉRIES",A&E
