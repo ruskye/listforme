@@ -118,7 +118,10 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11025
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11024
 
 #EXTINF:0  tvg-name="CLASSIQUE TV" tvg-logo="" group-title="TESTAR",TESTE
-http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11023
+http://iptv-line.com:6969/live/nsmsh71/H2vBanYQ/28269.m3u8
+
+#EXTINF:0  tvg-name="CLASSIQUE TV" tvg-logo="" group-title="TESTAR",TESTE2
+http://iptv-line.com:6969/live/nsmsh71/H2vBanYQ/28270.m3u8
 
 #EXTINF:0  tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="NOTÍCIAS",CNN INTERNACIONAL
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11022
