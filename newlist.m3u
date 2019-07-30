@@ -153,16 +153,10 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11010
 #EXTINF:0  tvg-name="CURTA!" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",CURTA!
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11011
 
-#EXTINF:0  tvg-name="DAZN BRASIL FHD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL FHD
-http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11009
-
-#EXTINF:0  tvg-name="DAZN BRASIL HD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL HD
-http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11008
-
-#EXTINF:0  tvg-name="DAZN BRASIL 2 SD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL 2 SD
+#EXTINF:0  tvg-name="DAZN BRASIL 2 SD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL SD
 http://playertv.ddns.net:25461/fabio80/Jsjvgsghs/67282
 
-#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL 2 HD
+#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL HD
 http://playertv.ddns.net:25461/fabio80/Jsjvgsghs/71694
 
 #EXTINF:0  tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CHANNEL FHD
@@ -291,12 +285,6 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10965
 #EXTINF:0  tvg-name="ESPN BRASIL HD" tvg-logo="" group-title="ESPORTE",ESPN BRASIL HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10964
 
-#EXTINF:0  tvg-name="ESPN FHD" tvg-logo="" group-title="ESPORTE",ESPN FHD
-http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10963
-
-#EXTINF:0  tvg-name="ESPN HD" tvg-logo="" group-title="ESPORTE",ESPN HD
-http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10962
-
 #EXTINF:0  tvg-name="FISH TV HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",FISH TV HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10960
 
@@ -343,7 +331,7 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10943
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10942
 
 #EXTINF:0  tvg-name="FOX SPORTS FHD" tvg-logo="" group-title="ESPORTE",FOX SPORTS FHD
-http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10941
+http://playertv.ddns.net:25461/fabio80/Jsjvgsghs/66149
 
 #EXTINF:0  tvg-name="FOX SPORTS HD" tvg-logo="" group-title="ESPORTE",FOX SPORTS HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10940
@@ -831,7 +819,7 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10762
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10760
 
 #EXTINF:0  tvg-name="SPORTV 3 HD" tvg-logo="" group-title="ESPORTE",SPORTV 3 HD
-http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10759
+http://playertv.ddns.net:25461/fabio80/Jsjvgsghs/65939
 
 #EXTINF:0  tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="" group-title="FILMES/SÉRIES",STUDIO UNIVERSAL FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10755
