@@ -117,12 +117,6 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11025
 #EXTINF:0  tvg-name="CINEMAX HD" tvg-logo="" group-title="FILMES/SÉRIES",CINEMAX HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11024
 
-#EXTINF:0  tvg-name="CLASSIQUE TV" tvg-logo="" group-title="TESTAR",TESTE
-http://iptv-line.com:6969/live/nsmsh71/H2vBanYQ/28269.m3u8
-
-#EXTINF:0  tvg-name="CLASSIQUE TV" tvg-logo="" group-title="TESTAR",TESTE2
-http://iptv-line.com:6969/live/nsmsh71/H2vBanYQ/28270.m3u8
-
 #EXTINF:0  tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="NOTÍCIAS",CNN INTERNACIONAL
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11022
 
@@ -156,14 +150,8 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11010
 #EXTINF:0  tvg-name="CURTA!" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",CURTA!
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11011
 
-#EXTINF:0  tvg-name="DAZN BRASIL 2 SD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL SD
-http://playertv.ddns.net:25461/fabio80/Jsjvgsghs/67282
-
-#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL HD
-http://playertv.ddns.net:25461/fabio80/Jsjvgsghs/71694
-
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN HD
-http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1719467504?ticket=7917FE18CCDF8AFA42D32576AE329C781C0A5D74&profile=pass
+http://tv.factoryiptv.com:80/claudio/claudio/58433
 
 #EXTINF:0  tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CHANNEL FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11006
@@ -896,7 +884,6 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10725
 #EXTINF:0  tvg-name="TNT SÉRIES HD" tvg-logo="" group-title="FILMES/SÉRIES",TNT SÉRIES HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10724
 
-
 #EXTINF:0  tvg-name="TNT" tvg-logo="" group-title="FILMES/SÉRIES",TNT
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10729
 
@@ -930,7 +917,6 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10714
 #EXTINF:0  tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" group-title="FILMES/SÉRIES",UNIVERSAL CHANNEL HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10713
 
-
 #EXTINF:0  tvg-name="VH1 HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",VH1 HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10711
 
@@ -942,7 +928,6 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10709
 
 #EXTINF:0  tvg-name="VIVA HD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",VIVA HD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10708
-
 
 #EXTINF:0  tvg-name="WARNER CHANNEL FHD" tvg-logo="" group-title="FILMES/SÉRIES",WARNER CHANNEL FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/10706
