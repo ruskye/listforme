@@ -159,6 +159,9 @@ http://playertv.ddns.net:25461/fabio80/Jsjvgsghs/67282
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN BRASIL HD
 http://playertv.ddns.net:25461/fabio80/Jsjvgsghs/71694
 
+#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN HD
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1719467504?ticket=7917FE18CCDF8AFA42D32576AE329C781C0A5D74&profile=pass
+
 #EXTINF:0  tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CHANNEL FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11006
 
