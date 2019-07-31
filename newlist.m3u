@@ -150,9 +150,6 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11010
 #EXTINF:0  tvg-name="CURTA!" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",CURTA!
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11011
 
-#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN HD
-http://tv.factoryiptv.com:80/claudio/claudio/58433
-
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN FHD
 http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/53622
 
@@ -161,6 +158,9 @@ http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/53621
 
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN HD²
 http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/50208
+
+#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN HD
+http://tv.factoryiptv.com:80/claudio/claudio/58433
 
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN SD
 http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/50207
