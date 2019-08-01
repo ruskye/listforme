@@ -151,25 +151,16 @@ http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11010
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11011
 
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN FHD
-http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/53622
-
-#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN EXCLUS. HD
-http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/53621
+http://br4.2tv.me:80/live/marcelomendes/marcelomendes/976.m3u8
 
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN HD²
-http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/50208
+http://br4.2tv.me:80/live/marcelomendes/marcelomendes/632.m3u8
 
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN HD
 http://tv.factoryiptv.com:80/claudio/claudio/58433
 
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN SD
-http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/50207
-
-#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN 2 HD
-http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/50471
-
-#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN 2 SD
-http://cdn.ontvhdbr.co:80/Ghgghhg754/4KifrNhaFf/50354
+http://br4.2tv.me:80/live/marcelomendes/marcelomendes/691.m3u8
 
 #EXTINF:0  tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CHANNEL FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11006
