@@ -162,8 +162,11 @@ http://tv.factoryiptv.com:80/claudio/claudio/58433
 #EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",DAZN SD
 http://br4.2tv.me:80/live/marcelomendes/marcelomendes/691.m3u8
 
-#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",SPORTV PT
+#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",SPORTV PT FHD
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/79031
+
+#EXTINF:0  tvg-name="DAZN BRASIL 2 HD" tvg-logo="" group-title="ESPORTE",SPORTV PT HD
+http://rb-group-server.com:25461/rachidx48/exchange_skype/5035
 
 #EXTINF:0  tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="VARIEDADES/DOCUMENTARIOS",DISCOVERY CHANNEL FHD
 http://server.visiontv.us:25461/osvaldosouza/osvaldosouza0102/11006
