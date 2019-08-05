@@ -1,4 +1,6 @@
 #EXTM3U
+
+--testes
 #EXTINF:0 tvg-id="Globo RJ" tvg-name="Globo RJ FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Canais Globo",Globo RJ FHD
 http://dns.clientetv.xyz:8000/manoelsarzedo/31989351328/12665
 #EXTINF:0 tvg-id="Globo RJ" tvg-name="Globo RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Canais Globo",Globo RJ HD
