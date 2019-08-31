@@ -1,1082 +1,383 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png"group-title="Canais:Abertos",GLOBO
-http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36968 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",BAND web
-http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT web
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",RECORD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV **" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS",Record web
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDE TV web
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",REDETV web2
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK2
-http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate
-http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36986
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series",A&E
-http://hvod.imirun.net:8080/A&E-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series",AMC
-http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: Documentarios",Animal Planet
-http://playback.imirun.net:8080//AnimalPlanet-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.playhdtv.pw/img/allsports.png"group-title=" Esportes", ALL SPORTS HD (DF)
-http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series",AXN
-http://hvod.imirun.net:8080/AXN-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="AgroBrasil TV" tvg-name="AgroBrasil TV" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="CANAIS DIGITAL", AgroBrasil TV
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?CANALANDRONALTAS
-
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band
-http://ev.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News
-http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports
-http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil",Boomerang
-http://playback.imirun.net:8080//Boomerang-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Documentarios",BIOSFERA
-http://stmv2.srvstm.com/16692/16692/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series",Canal Sony
-http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: Variedades e Musicas",BIS
-http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil",Cartoon
-http://playback.imirun.net:8080//CartoonNetwork-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: Filmes e Series",Cinemax
-http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate
-http://hvod.imirun.net:8080/Combate-HD/index.m3u8     
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://logocanais.ddns.net/Logo/ComedyCentral1.png" group-title="Canais: Variedades e Musicas",Comedy Central
-http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="http://logocanais.ddns.net/Logo/tvcultura1.png" group-title="Canais: Abertos",TV Cultura
-http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:0 type="stream" channelId="352" tvg-logo="http://www.digicelplay.com.pg/Images/Assets/7269/1/"group-title="Documentarios", DWTV HD (INGLES)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="Canais: Documentarios",Discovery Channel
-http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="Discovery Home Health" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryH&H1.png" group-title="Canais: Documentarios",Discovery Home Health
-http://playback.imirun.net:8080//DiscoveryH&H-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://pt.wikipedia.org/wiki/Investigação_Discovery#/media/Ficheiro:Investigação_Discovery_1.png" group-title="Canais: Documentarios",Discovery ID
-http://playback.imirun.net:8080//InvestigacaoDiscoveryHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil",Discovery Kids
-http://playback.imirun.net:8080//DiscoveryKids-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://logocanais.ddns.net/Logo/DiscoverySCience1.png" group-title="Canais: Documentarios",Discovery Science
-http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater " tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTheater1.png" group-title="Canais: Documentarios",Discovery Theater
-http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="Canais: Documentarios",Discovery Turbo
-http://playback.imirun.net:8080//DiscoveryTurbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World " tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="Canais: Documentarios",Discovery World
-http://playback.imirun.net:8080//DiscoveryWorldHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil",Disney Channel
-http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil",Disney Junior
-http://playback.imirun.net:8080//DisneyJunior-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://logocanais.ddns.net/Logo/E!1.png" group-title="Canais: Variedades e Musicas",E! Entertainment Television
-http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN Brasil
-http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN [2]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN [2]
-http://hvod.imirun.net:8080/ESPN+/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN " tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN 
-http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://steve-lovelace.com/wordpress/wp-content/uploads/2013/07/catalan-logo.png"group-title="Esportes Internacionais", CATALAN HD
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN " tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network " tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="Canais: Variedades e Musicas",Food Network
-http://playback.imirun.net:8080//FoodNetworkHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Canais: Filmes e Series" ,  FOX 
-http://hvod.imirun.net:8080/FOX-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="Canais: Filmes e Series",FOX CHANNEL
-
-http://hvod.imirun.net:8080/FOX-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium " tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series",Fox Premium 
-http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Canais: Filmes e Series" , FOX premium 2
-http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports
-http://hvod.imirun.net:8080/Fox-Sports-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports 2
-http://hvod.imirun.net:8080/Fox-Sports-2-HD/index.m3u8
-
-#EXTINF:0 type="stream" channelId="2454" tvg-logo="http://goo.gl/KK9jTv"group-title="Tv Aberta", CANAL FUTURA 
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais:Filmes e Series",FX
-http://hvod.imirun.net:8080/FX-HD/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais: Abertos",TV GAZETA
-http://playback.imirun.net:8080//TVGazeta/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais:Abertos",GLOBO NEWS
-http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
-
-#EXTINF:0 tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png"group-title="Canais:Abertos",GLOBO
-http://hvod.imirun.net:8080/GloboSPHD23/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais: Infantil", GLOOB
-http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais: Filmes e Series",GNT
-http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 " tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group-title="Canais: Documentarios",H2
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-
-#EXTINF:-1 tvg-id="The History Channel" tvg-name="The History Channel " tvg-logo="http://logocanais.ddns.net/Logo/History1.png" group-title="Canais: Documentarios",The History Channel 
-http://playback.imirun.net:8080//HistoryChannel_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 2" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series",HBO 2
-http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series",HBO Family
-http://playback.imirun.net:8080//HBO-Family-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series",HBO
-http://hvod.imirun.net:8080/HBO-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Canais: Filmes e Series" , HBO 2
-http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="Canais: Variedades e Músicas",Lifetime
-http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="",MAX PRIME
-http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="Canais: Filmes e Series",MAX UP
-http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="",MTV
-http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:0 tvg-logo=""group-title="Canais:Variedades e Musicas",MULT SHOW
-http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NATIONAL GEOGRAPHIC 
-http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAt GEO WILD 
-http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , OFF 
-http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="1719" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png"group-title="TV FILMES", PARAMOUNT CHANNEL
-http://paramount.live.flumotion.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes
-http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2
-http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3
-http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4
-http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5
-http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6
-http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais:Abertos", RECORD
-http://hvod.imirun.net:8080/RecordSPHD/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais:Abertos", RECORD NEWS
-http://hvod.imirun.net:8080/Record-News-HD/index.m3u8
-
-#EXTINF:0 type="stream" channelId="2435" tvg-logo="http://goo.gl/QAsaU6"group-title="TV ABERTA", REDETV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w73731525.m3u8
-
-#EXTINF:0group-title="EVANGÉLICOS",REDE MÃO AMIGA
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="Canais Abertos",SBT HD
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="", SPACE
-http://hvod.imirun.net:8080/SpaceHD/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais: Esportes", SPORT TV
-http://hvod.imirun.net:8080/SporTV-HD/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais: Esportes", SPORT TV 2
-http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais: Esportes", SPORT TV 3
-http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SONY
-http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="", STUDIO UNIVERSAL
-http://playback.imirun.net:8080//StudioUniversalHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy
-http://hvod.imirun.net:8080/SyFyHD/index.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="Canais:Esportes", SPORT TV
-http://hvod.imirun.net:8080/SporTV-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV [2]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes",SporTV [ 2]
-http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS
-http://playback.imirun.net:8080//TBSHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Filmes e Series",Telecine Action
-http://playback.imirun.net:8080//TelecineActionHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Filmes e Series",Telecine Cult
-http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Filmes e Series",Telecine Fun
-http://playback.imirun.net:8080//Telecine-Fun-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Filmes e Series",Telecine Pipoca
-http://playback.imirun.net:8080//TelecinePipocaHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Filmes e Series",Telecine Premium [Alter 2]
-http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series",Telecine Touch
-http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://logocanais.ddns.net/Logo/TLC1.png" group-title="Canais: Variedades e Musicas",TLC
-http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series",TNT
-http://hvod.imirun.net:8080/TNT-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TCM
-http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Aparecida" tvg-name="Aparecida" tvg-logo="http://logocanais.ddns.net/Logo/Aparecida1.png" group-title="Canais: Religioso", TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-
-
-#EXTINF:0 type="stream" channelId="378" tvg-logo="http://goo.gl/6jQNFV"group-title="TV ABERTA", TV BRASIL HD - TVE (RS)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:0tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/365defd359f0551f8ee7f7a21da916c2.png" group-title="TV FILMES",TV BOA ESPERANÇA
-http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8
-
-
-#EXTINF:0 tvg-logo=""group-title="", TV ESCOLA
-https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b270336.m3u8
-
-#EXTINF:0group-title="DOCUMENTÁRIO",TV FAAP HD
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-
-#EXTINF:0group-title="Evangelicos",TV GIDEÕES HD
-https://streaming01.zas.media/gideoes
-/programacao_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/SPPZAB" group-title="Evangelicos", GOSPEL MOVIES TELEVISION
-http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
-
-#EXTINF:0tvg-logo="http://www.tvnailha.com.br/img/284974862.png"group-title="TV FILMES",TV NA ILHA
-http://108.170.56.202/tvnailha/tvnailha/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.annaramalho.com.br/wp-content/uploads/2018/02/tvines.png"group-title="TV SAUDE", TV INES
-https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w282858352_DVR.m3u8
-
-#EXTINF:-1,TV JUSTICA
-http://srv.mtvs.me:8880/guinhoirmao/1234567890/28453
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="="", TV KID MAIS
-http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
-
-
-#EXTINF:0 tvg-logo=""group-title="", TV NOVO TEMPO
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18992.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa2d79aa1de837e717638a2f88268e12.png"group-title="TV ESPORTES", TV PANTANAL (MS)
-https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w817097591.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="", TV RA TIM BUM
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18999.m3u8
-
-#EXTINF:0group-title="EVANGÉLICOS",TV CI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" group-title="TV FILMES", TV TEEN NET
-http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="", TV UNIVERSAL
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18998.m3u8
-
-
-#EXTINF:0 tvg-logo=""group-title="", TV UPHD
-http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVB Santos" tvg-name="TVB Santos" tvg-logo="https://sc.dish.com/shared/images/station-logos/tvbp.png" group-title="Canais Abertos", TVB Santos 
-http://stmv2.euroti.com.br:1935/tvbelohorizonte/tvbelohorizonte/live.m3u8
-#EXTINF:0 tvg-logo=""group-title="", VH1
-http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18892.m3u8
-
-#EXTINF:0 tvg-logo=""group-title="",  TV VIVA
-http://playback.imirun.net:8080//VIVA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series",Warner Channel
-http://hvod.imirun.net:8080/Warner-Channel-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://logocanais.ddns.net/Logo/woohoo1.png" group-title="Canais: Esportes",Woohoo
-http://playback.imirun.net:8080//Woohoo/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1,TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
-#EXTINF:-1,Canção Nova HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-logo=»https://i0.wp.com/i.imgur.com/IZKxzJ9.png» group-title=»RELIGIOSO», Novo Tempo RS
-http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="ESPORTES",ESPN Brasil
-http://placartv.futeboltv.com:8081/live/3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport" tvg-logo="" g0roup-title="Esportes",FOX Sport
-http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="" g0roup-title="Esportes",SPORTV
-http://placartv.futeboltv.com:8081/live/5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" g0roup-title="Esportes",SPORTV 2
-http://placartv.futeboltv.com:8081/live/7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" g0roup-title="Esportes",SPORTV 3
-http://placartv.futeboltv.com:8081/live/11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOPTV Sertaneja" tvg-logo="" group-title="Shows",TOPTV Sertaneja
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shows",GUSTTAVO LIMA
-http://webtvcde.com/Servidor/sh/gl50om.mp4
-#EXTINF:-1 tvg-id="" tvg-name="HENRIQUE E JULIANO" tvg-logo="" group-title="Shows",HENRIQUE E JULIANO
-http://webtvcde.com/Servidor/sh/hejavb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shows",CRISTIANO ARAUJO
-http://webtvcde.com/Servidor/sh/caitca.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png" group-title="CANAIS DE RELIGIAO", Cancao Nova 
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8??TvFogoHD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS DE RELIGIAO",TV APARECIDA HD
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
-
-################################################################################# DESENHOS 24 hr
-#EXTINF:-1 tvg-id="" tvg-name="Larva Tuba [24h]" tvg-logo="https://img.youtube.com/vi/pBB9xzOSfrw/0.jpg" group-title="24Hrs Infantil",Larva Tube [24h]
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA 24h" tvg-logo="" group-title="24Hrs Infantil",A PANTERA COR DE ROSA
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW 24h" tvg-logo="" group-title="24Hrs Infantil",APENAS UM SHOW
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Clarencio [24h]" tvg-logo="https://imgur.com/0tK8520.jpg" group-title="24Hrs Infantil",Clarencio [24h]
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://imgur.com/TIv2l6x.jpg" group-title="24Hrs Infantil",3 Palavrinhas
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12268.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://imgur.com/mpiy6HX.jpg" group-title="24Hrs Infantil",Bob Zoom
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Contos Assustadores da Masha" tvg-logo="https://imgur.com/aJQoTqc.jpg" group-title="24Hrs Infantil",Contos Assustadores da Masha
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/15375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Contos da Masha" tvg-logo="https://imgur.com/w6Lai14.jpg" group-title="24Hrs Infantil",Contos da Masha
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/15374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dora: A Aventureira" tvg-logo="https://imgur.com/uLn0x2W.jpg" group-title="24Hrs Infantil",Dora: A Aventureira
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="https://imgur.com/hwB35Oi.jpg" group-title="24Hrs Infantil",Daniel Tigre
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pocoyo 1º temporada" tvg-logo="https://imgur.com/9By3rAE.jpg" group-title="24Hrs Infantil",Pocoyo 1º temporada
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pocoyo 2º temporada" tvg-logo="https://imgur.com/9By3rAE.jpg" group-title="24Hrs Infantil",Pocoyo 2º temporada
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pocoyo 3º temporada" tvg-logo="https://i.imgur.com/9By3rAE.jpg" group-title="24Hrs Infantil",Pocoyo 3º temporada
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pocoyo 4º temporada" tvg-logo="https://imgur.com/9By3rAE.jpg" group-title="24Hrs Infantil",Pocoyo 4º temporada
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Patati e Patata" tvg-logo="https://imgur.com/s3xzrD8.jpg" group-title="24Hrs Infantil",Patati e Patata
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Pequerruchos" tvg-logo="https://imgur.com/awzPv90.jpg" group-title="24Hrs Infantil",Os Pequerruchos
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso" tvg-logo="https://imgur.com/tgmBvoy.jpg" group-title="24Hrs Infantil",Masha e o Urso
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Show Da Luna" tvg-logo="https://imgur.com/PMFTsEq.jpg" group-title="24Hrs Infantil",O Show Da Luna
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canções Infantis" tvg-logo="https://imgur.com/ShcunPs.jpg" group-title="24Hrs Infantil",Canções Infantis
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="https://imgur.com/RN5Autg.jpg" group-title="24Hrs Infantil",Galinha Pintadinha
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/12439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha Mini" tvg-logo="https://imgur.com/v1xKs7Q.jpg" group-title="24Hrs Infantil",Galinha Pintadinha Mini
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina T1" tvg-logo="https://imgur.com/KincMEc.jpg" group-title="24Hrs Infantil",Patrulha Canina T1
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina T2" tvg-logo="https://imgur.com/KincMEc.jpg" group-title="24Hrs Infantil",Patrulha Canina T2
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/11990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina T3" tvg-logo="https://imgur.com/KincMEc.jpg.jpg" group-title="24Hrs Infantil",Patrulha Canina T3
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey T1 T2 T3" tvg-logo="https://imgur.com/D1p67OG.jpg" group-title="24Hrs Infantil",A Casa do Mickey T1 T2 T3
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/21247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZORRA TOTAL 24h" tvg-logo="" group-title="24Hrs Infantil",ZORRA TOTAL 24h
-http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/13042.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E @ 
-http://hvod.imirun.net:8080/A&E-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E ♣
-http://backup.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD ♣
-http://b.greenplanet.top:8080/br-8012Wild/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD
-http://208.81.204.23:8082/TV1476
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AXN @
-http://hvod.imirun.net:8080/AXN-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC @
-http://hvod.imirun.net:8080/AMC-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC ♣
-http://backup.greenplanet.top:8080/br-8043amc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET 02
-http://178.132.6.61:8082/TV3878
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS @
-http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS *
-http://177.54.158.18:8082/TV3211
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS 02
-http://178.132.6.61:8082/TV3211
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT *
-http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT *
-http://177.54.158.18:8082/TV3133
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BIS ♣
-http://backup.greenplanet.top:8080/br-8056Bis/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BOOMERANG @ 
-http://playback.imirun.net:8080/Boomerang-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BOOMERANG 
-http://178.132.6.61:8082/TV3858
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANÇAO NOVA
-http://178.132.6.61:8082/TV2354
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANAL BRASIL 01
-http://178.132.6.61:8082/TV3170
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANAL BRASIL *
-http://177.54.158.18:8082/TV3170
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINEMAX ♣
-http://backup.greenplanet.top:8080/br-8044Cinemax/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTON NETWORK @ 
-http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMBATE @
-http://hvod.imirun.net:8080/Combate-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMEDY CENTRAL ♣
-http://backup.greenplanet.top:8080/br-8074ComedyCentral/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMEDY CENTRAL *
-http://177.54.158.18:8082/TV3182
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CURTA   
-http://177.54.158.18:8082/TV3207 
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DICOVERY CIVILIZATION ♣
-http://backup.greenplanet.top:8080/br-8055DiscCivi/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CHANNEL  
-http://178.132.6.61:8082/TV3872
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY  H&H
-http://178.132.6.61:8082/TV3875
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY KIDS ♣
-http://backup.greenplanet.top:8080/br-18094DiscKi/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY KIDS 02
-http://178.132.6.61:8082/TV3874
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY CHANNEL 
-http://178.132.6.61:8082/TV1469 
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY CHANNEL *
-http://177.54.158.18:8082/TV3140  
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,DISCOVERY WORLD *
-http://177.54.158.18:8082/TV3168
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,DISCOVERY WORLD 02
-http://178.132.6.61:8082/TV3168
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY TURBO
-http://178.132.6.61:8082/TV3873
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY SCIENCE
-http://177.54.158.18:8082/TV3122 
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL @
-http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL 01
-http://178.132.6.61:8082/TV3233 
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL*
-http://177.54.158.18:8082/TV3233
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN 2       
-http://177.54.158.18:8082/TV3205
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN 01  
-http://178.132.6.61:8082/TV3141
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN * 
-http://177.54.158.18:8082/TV3233
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN 02 
-http://178.132.6.61:8082/TV3233
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , E!
-http://177.54.158.18:8082/TV3176
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FASHION TV
-http://178.132.6.61:8082/TV3769
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX PREMIUM 02  
-http://178.132.6.61:8082/TV3750
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX PREMIUM 1
-http://178.132.6.61:8082/TV3749
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX LIFE @
-http://hvod.imirun.net:8080/Lifetime-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX @
-http://hvod.imirun.net:8080/FOX-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX *
-http://177.54.158.18:8082/TV3150
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX 01
-http://178.132.6.61:8082/TV3150
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FILM & ART
-http://177.54.158.18:8082/TV3117
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX @
-http://hvod.imirun.net:8080/FX-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX
-http://178.132.6.61:8082/TV3879
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT @
-http://hvod.imirun.net:8080/Fox-Sports-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT 01
-http://178.132.6.61:8082/TV3149
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT *
-http://177.54.158.18:8082/TV3149
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX CHANNEL @
-http://hvod.imirun.net:8080/FOX-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX CHANNEL 01
-http://178.132.6.61:8082/TV3750
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX CHANNEL *
-http://177.54.158.18:8082/TV3150
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FUTURA *
-http://177.54.158.18:8082/TV3121
-#EXTM3
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FUTURA 02
-http://178.132.6.61:8082/TV3121
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS 01
-http://178.132.6.61:8082/TV3196
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS @
-http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS *
-http://177.54.158.18:8082/TV3196
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOOB @
-http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOOB
-http://38.91.107.64:8080/TV1484   
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HISTORY 
-http://178.132.6.61:8082/TV1474 
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE * 
-http://177.54.158.18:8082/TV3109
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE 01
-http://178.132.6.61:8082/TV3109
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO @
-http://hvod.imirun.net:8080/HBO-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO 01
-http://178.132.6.61:8082/TV3126
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO * 
-http://177.54.158.18:8082/TV3126
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , H2 *
-http://177.54.158.18:8082/TV3171
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , History  01
-http://178.132.6.61:8082/TV3171
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME *
-http://177.54.158.18:8082/TV3178
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME 02
-http://178.132.6.61:8082/TV3178
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ID 
-http://178.132.6.61:8082/TV3877
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NAT GEO 
-http://178.132.6.61:8082/TV1475 
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW 01
-http://178.132.6.61:8082/TV3134
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW *
-http://177.54.158.18:8082/TV3134
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MTV
-http://177.54.158.18:8082/TV3160
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  OFF
-http://177.54.158.18:8082/TV3131
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER CLUBE @
-http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 2 @
-http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 3 @
-http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 4 @
-http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 5 @
-http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 6 @
-http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 
-http://178.132.6.61:8082/TV3105
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 05 * 
-http://177.54.158.18:8082/TV3105
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 05 
-http://178.132.6.61:8082/TV3105
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PARAMOUNT 01
-http://178.132.6.61:8082/TV3130
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PARAMOUNT *
-http://177.54.158.18:8082/TV3130
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE VIDA 01
-http://178.132.6.61:8082/TV3217
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE VIDA *
-http://177.54.158.18:8082/TV3217
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE TV *
-http://177.54.158.18:8082/TV3217
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE TV 01
-http://178.132.6.61:8082/TV3217
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PRIME BOX BRASIL
-http://178.132.6.61:8082/TV3767
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RATIBUM
-http://178.132.6.61:8082/TV3175
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , RECORD *
-http://177.54.158.18:8082/TV3160
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , RECORD 02
-http://178.132.6.61:8082/TV3110
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV *
-http://177.54.158.18:8082/TV3102
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE *
-http://177.54.158.18:8082/TV3174
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE 02
-http://178.132.6.61:8082/TV3174
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SONY 01
-http://178.132.6.61:8082/TV3303
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SONY *
-http://177.54.158.18:8082/TV3303
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SBT * 
-http://177.54.158.18:8082/TV3125
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SBT 02
-http://178.132.6.61:8082/TV3125
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY 01
-http://178.132.6.61:8082/TV3173
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY * 
-http://177.54.158.18:8082/TV3173
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TCM
-http://178.132.6.61:8082/TV3856
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE CUT *
-http://177.54.158.18:8082/TV3203
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE CUT 01 
-http://178.132.6.61:8082/TV3203
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE FUN *
-http://177.54.158.18:8082/TV3161
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE FUN 02
-http://178.132.6.61:8082/TV3161
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES  JÁ
-http://178.132.6.61:8082/TV3859
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT @
-http://hvod.imirun.net:8080/TNT-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT *
-http://177.54.158.18:8082/TV3167
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT 02 
-http://178.132.6.61:8082/TV1477
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT 03
-http://178.132.6.61:8082/TV3167
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TCL 
-http://178.132.6.61:8082/TV3876
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE TOUCH *
-http://177.54.158.18:8082/TV3100
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE TOUCH 01
-http://178.132.6.61:8082/TV3100
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PREMIUM *
-http://177.54.158.18:8082/TV3101
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PREMIUM 01
-http://178.132.6.61:8082/TV3101
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PIPOCA *
-http://177.54.158.18:8082/TV3206
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PIPOCA 02
-http://178.132.6.61:8082/TV3206
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE ACTION 02
-http://178.132.6.61:8082/TV3151
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE ACTION *
-http://177.54.158.18:8082/TV3151
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TRAVEL BOX BRASIL
-http://178.132.6.61:8082/TV3770
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV BRASIL 01 
-http://178.132.6.61:8082/TV3170
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV BRASIL * 
-http://177.54.158.18:8082/TV3170
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVESP SÃO PAULO
-http://178.132.6.61:8082/TV3776
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVERSAL @
-http://hvod.imirun.net:8080/UniversalChannelHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVERSAL * 
-http://177.54.158.18:8082/TV3204
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVERSAL 02 
-http://178.132.6.61:8082/TV3204
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO *
-http://177.54.158.18:8082/TV3123
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO 02
-http://178.132.6.61:8082/TV3123
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VIVA 01 
-http://178.132.6.61:8082/TV3107
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VIVA * 
-http://177.54.158.18:8082/TV3107
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , WANNER CHANNEL * 
-http://177.54.158.18:8082/TV3132
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , WANNER CHANNEL 02
-http://178.132.6.61:8082/TV3132
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ZOOMOO *
-http://177.54.158.18:8082/TV3163
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ZOOMOO 02
-http://178.132.6.61:8082/TV3163
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/keym7MPn1icW1wWfzMnW3HeuzWU.jpg" group-title="Filmes" ,Velozes & Furiosos: Hobbs & Shaw
-https://bucket-a03.unitplay.stream/cam/384018-hobbs.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="Filmes" ,Vingadores: Ultimato
-https://bucket-a03.unitplay.stream/hd/299534-avengers-endgame.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gaTbUC1j5eouaarSrR65Ak4zy9Z.jpg" group-title="Filmes" ,Max 2: Um Agente Animal
-https://bucket-a03.unitplay.stream/hd/446829-max-2-white-house-hero.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8NMUF8ofBGCiH5Udpjn1GbtsXoP.jpg" group-title="Filmes" ,Carnivore: O Lobisomem De Londres
-https://bucket-a03.unitplay.stream/hd/441926-carnivore-werewolf-of-london.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/88HAJqpl49NvP7L1p7hWhyybLgk.jpg" group-title="Filmes" ,Ice
-https://bucket-a03.unitplay.stream/hd/440630.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9wRTH85w1punu5EwZwRDHwrsl14.jpg" group-title="Filmes" ,Meu Amigo Vampiro
-https://bucket-a03.unitplay.stream/hd/442056-the-little-vampire-3d.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tl2HXoLuxii1KjTd72QC3x0sU06.jpg" group-title="Filmes" ,Atração Violenta
-https://bucket-a03.unitplay.stream/hd/433621-get-the-girl.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3XD18SDSquOBLmvWY97YLOHcysF.jpg" group-title="Filmes" ,Guerreiro da Escuridão
-https://bucket-a03.unitplay.stream/hd/425298-underverden.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ljlTYcbO6tj5XfCZ9wYIRAdYFDv.jpg" group-title="Filmes" ,Paradox
-https://bucket-a03.unitplay.stream/hd/376292-paradox.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bj24DqgxSksdfpCZECOXRRcODnb.jpg" group-title="Filmes" ,Deus da Guerra
-https://bucket-a03.unitplay.stream/hd/455043-god-of-war.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5L2UP16K1KYLJGDlDOqw08fDjqr.jpg" group-title="Filmes" ,Império dos Tubarões
-https://bucket-a03.unitplay.stream/hd/457710-empire-of-the-sharks.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bqlpFp96uWu2VDpsm4MVvLXdumh.jpg" group-title="Filmes" ,Shaft
-https://bucket-a03.unitplay.stream/hd/479-shaft.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rC3hlLHzQQKVNqAQ1fCigQeszCt.jpg" group-title="Filmes" ,Com Deus no Caminho
-https://bucket-a03.unitplay.stream/hd/434767-god-bless-the-broken-road.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/an1oaHvLqmz6YioxAx66vchy8BW.jpg" group-title="Filmes" ,Desculpe Te Incomodar
-https://bucket-a03.unitplay.stream/hd/424781-sorry-to-bother-you.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2N6fkTKTKzkb8ywF9A4OoyuAVTM.jpg" group-title="Filmes" ,Nas Trevas
-https://bucket-a03.unitplay.stream/hd/463322-the-dark.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qulNWdtoFomUIjllKA0FJyh2kF1.jpg" group-title="Filmes" ,Invencível: Caminho da Redenção
-https://bucket-a03.unitplay.stream/hd/506680-unbroken-path-to-redemption.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fbyGbSZMD8bjLXUaXJzt1r9BLPu.jpg" group-title="Filmes" ,Killer Unicorn
-https://bucket-a03.unitplay.stream/hd/511827-killer-unicorn.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lqNiRYErqND6A0pSyEy4EPBQndt.jpg" group-title="Filmes" ,Jogo Duplo
-https://bucket-a03.unitplay.stream/hd/537617-the-padre.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uo7u2bRW6KPPe4ipTUqx5RZ9rwC.jpg" group-title="Filmes" ,Jurassic Galaxy
-https://bucket-a03.unitplay.stream/hd/540247-jurassic-galaxy.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/sTlXEkcB865C6FCaJyFBRV4kixa.jpg" group-title="Filmes" ,Icebox
-https://bucket-a03.unitplay.stream/hd/543772-icebox.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9Xiqmm4cUZQwmZfGfhzZ34Z2OAs.jpg" group-title="Filmes" ,Cucuy: O Bicho-Papão
-https://bucket-a03.unitplay.stream/hd/552938-cucuy-the-boogeyman.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/czhIpy9QnnxdaSGrLOVJT67R5gO.jpg" group-title="Filmes" ,Karma: Aqui se Faz, Aqui se Paga
-https://bucket-a03.unitplay.stream/hd/553928-karma.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kzsA6zcJlCS4KEfzy92HJ3GfyDR.jpg" group-title="Filmes" ,Happy Hour – Verdades e Consequências
-https://bucket-a03.unitplay.stream/hd/555768-happy-hour.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zecOplwpW7TlP3ZKSAKov1ws4b0.jpg" group-title="Filmes" ,O Mau Exemplo de Cameron Post
-https://bucket-a03.unitplay.stream/hd/426613-the-miseducation-of-cameron-post.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/r6v7nmitQiKL2LHCjYBWUO2ALa4.jpg" group-title="Filmes" ,Rastros do Além
-https://bucket-a03.unitplay.stream/hd/448095-i-still-see-you.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kM3QlCTSnLQSkY4kzNxddOSKouU.jpg" group-title="Filmes" ,Operação Supletivo: Agora Vai!
-https://bucket-a03.unitplay.stream/hd/454293-night-school.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9cdGOnHbMVqoUNcRfRNAKVZv3nm.jpg" group-title="Filmes" ,O Pequeno Órfão
-https://bucket-a03.unitplay.stream/hd/458302-r-mi-sans-famille.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/apoaNISBUsaw76AJ54RhV13ZGI4.jpg" group-title="Filmes" ,Nossa Vida com Cães
-https://bucket-a03.unitplay.stream/hd/477510-dog-days.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/oQOH1xoqe568Wr5fDSi5KK2lf7s.jpg" group-title="Filmes" ,Tango One, O Mais Procurado
-https://bucket-a03.unitplay.stream/hd/479198-tango-one.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lMM8ZKphFD57IuF6k6CeX8lVJkR.jpg" group-title="Filmes" ,Nina: No Palco e Na Vida
-https://bucket-a03.unitplay.stream/hd/483435-all-about-nina.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kNJHE5toiMWuF2GYaPY8VIl3qD1.jpg" group-title="Filmes" ,Segredos e Despedidas
-https://bucket-a03.unitplay.stream/hd/484355-here-and-now.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xoOCw0fhOrZINnot9jHEonHYQch.jpg" group-title="Filmes" ,Praça Pública
-https://bucket-a03.unitplay.stream/hd/486521-la-place-publique.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3C3FxKqBHF3D7ek9IHAIcNdbbLl.jpg" group-title="Filmes" ,Três Estranhos Idênticos
-https://bucket-a03.unitplay.stream/hd/489988-three-identical-strangers.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fqH4KgqwzhSkqX5B6x1FzG2bw4n.jpg" group-title="Filmes" ,Onde Está a Vovó?
-https://bucket-a03.unitplay.stream/hd/492353-metti-la-nonna-in-freezer.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/patzx6JSth70QKEUqZ1fU4Hatkd.jpg" group-title="Filmes" ,A Espiã Vermelha
-https://bucket-a03.unitplay.stream/hd/494974-red-joan.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/afvi5tVi5S3Ux9faZaI32SmPRkj.jpg" group-title="Filmes" ,Saída Proibida
-https://bucket-a03.unitplay.stream/hd/505063-await-further-instructions.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8kvRH0Q9ghWXvYsQIqybAYf2BZq.jpg" group-title="Filmes" ,Paraíso Perdido
-https://bucket-a03.unitplay.stream/hd/524323-paraiso-perdido.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/d5qgiCABJFUbpqf9Q22VI1zNhZD.jpg" group-title="Filmes" ,Resgate Mortal
-https://bucket-a03.unitplay.stream/hd/551910-dead-in-the-water.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ecMoWaWseqqLcm1riklTRi3tWzp.jpg" group-title="Filmes" ,Sexta-Feira Muito Louca
-https://bucket-a01.unitplay.stream/hd/505904-freaky-friday.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kXbiVm89zd4NuMyzMMSPyT6Utrc.jpg" group-title="Filmes" ,45 Dias Sem Você
-https://bucket-a03.unitplay.stream/hd/563091-45-dias-sem-voce.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dUgoy8qSCZ5Y5pBiu5ipufvS16d.jpg" group-title="Filmes" ,A Casa Assombrada
-https://bucket-a03.unitplay.stream/hd/491132-before-someone-gets-hurt.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hr5NzBpK1IQRIDEZIzhuAPRfiwm.jpg" group-title="Filmes" ,Uma Prece Antes do Amanhecer
-https://bucket-a03.unitplay.stream/hd/448776-a-prayer-before-dawn.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/l6mbdXVinpYl4pWZ6CkySX6dUZ9.jpg" group-title="Filmes" ,Era Uma Vez Um Deadpool
-https://bucket-a04.unitplay.stream/hd/567604-once-upon-a-deadpool.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg" group-title="Filmes" ,Dragon Ball Super: Broly
-https://bucket-a03.unitplay.stream/hd/503314-untitled-dragon-ball-movie.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/q1mXhMMFZmCQVcFlnjv8Ty72UvJ.jpg" group-title="Filmes" ,País da Violência
-https://bucket-a03.unitplay.stream/hd/446101-assassination-nation.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qM1r04f3WzCBFkUUCSAZKqZD1iT.jpg" group-title="Filmes" ,Popular e Perigosa
-https://bucket-a03.unitplay.stream/hd/559302-psycho-prom-queen.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3bDOTBCRDwZxUV3LCkolLCZmunJ.jpg" group-title="Filmes" ,Natal No Palácio
-https://bucket-a03.unitplay.stream/hd/550023-christmas-at-the-palace.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/e3eY148LsldmJywXUqMhNIxH7Te.jpg" group-title="Filmes" ,Silencio
-https://bucket-a03.unitplay.stream/hd/526703-silencio.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cZ86QuBowAOX6LKnm6QdEoV9qyH.jpg" group-title="Filmes" ,Amor No Safari
-https://bucket-a03.unitplay.stream/hd/525454-love-on-safari.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/l69vmy7RaPMRKOHTE5U40unE8j.jpg" group-title="Filmes" ,CARGA
-https://bucket-a03.unitplay.stream/hd/507313-carga.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ynv9tbskUZxmj0iXwjPSuJu395l.jpg" group-title="Filmes" ,Upgrade
-https://bucket-a03.unitplay.stream/hd/500664-upgrade.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/j98gOdn1HB8WW2dfpq2SK4xq8Lj.jpg" group-title="Filmes" ,O Retorno de Ben
-https://bucket-a03.unitplay.stream/hd/492452-ben-is-back.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9U14Dip0WmvEUMrU8cCcqipoHZF.jpg" group-title="Filmes" ,Como é Cruel Viver Assim
-https://bucket-a03.unitplay.stream/hd/480714-como-cruel-viver-assim.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3lU7fYmSxNxu79M4v1vQ9aFLLjs.jpg" group-title="Filmes" ,O Vazio do Domingo
-https://bucket-a03.unitplay.stream/hd/442811-la-enfermedad-del-domingo.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ggX7hyJr3toYvNzu8FtcYNUQlME.jpg" group-title="Filmes" ,Sobibor
-https://bucket-a03.unitplay.stream/hd/440626.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kgHRznD5Zs1VAGykQ7oF7D3Rcm2.jpg" group-title="Filmes" ,Alma da Festa
-https://bucket-a03.unitplay.stream/hd/399796-life-of-the-party.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qklGv6ZvmIpEP7RTInbngyKUT5V.jpg" group-title="Filmes" ,Suspíria: A Dança do Medo
-https://bucket-a03.unitplay.stream/hd/361292-suspiria.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/u3hDPc70JEWbrLruk6sni1OcODe.jpg" group-title="Filmes" ,Galveston Destinos Cruzados
-https://bucket-a03.unitplay.stream/hd/283601-galveston.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xJnV6n9P71HGZUwV3IiekfVPhak.jpg" group-title="Filmes" ,Bem-vindos a Marwen
-https://bucket-a03.unitplay.stream/hd/351044-marwencol.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Filmes" ,A Morte do Superman
-https://bucket-a03.unitplay.stream/hd/487670-death-of-superman.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vXqDNIp7CrUpkcBc8eMBtDPch4J.jpg" group-title="Filmes" ,O Rei das Drogas
-https://bucket-a03.unitplay.stream/hd/497370.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/weWAoaNOWi5VBnnGF5wEDI14LYi.jpg" group-title="Filmes" ,Operação Enganosa
-https://bucket-a03.unitplay.stream/hd/511815-the-bleeding-edge.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2LTSiHg" group-title="Filmes" ,Shazam
-https://bit.ly/32olHzc
- 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O decimo primeiro Homem
-http://thor.lhmtv.gq/filmes/o12homem-dub-480p.mp4?LHMTv
- 
-#EXTINF:-1 tvg-logo="https://bit.ly/2LTSiHg" group-title="Filmes" ,Besouro
-https://bit.ly/31oHBBb
+#EXTINF:-1,A&E
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37130
+#EXTINF:-1,A&E HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36929
+#EXTINF:-1,Animal Planet
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37128
+#EXTINF:-1,Animal Planet HD
+#EXTINF:-1,Band
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37127
+#EXTINF:-1,Band HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36990
+#EXTINF:-1,Band News
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37126
+#EXTINF:-1,Band SP HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/41530
+#EXTINF:-1,BandNews HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/42411
+#EXTINF:-1,BandSports
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37125
+#EXTINF:-1,BandSports HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36989
+#EXTINF:-1,Cartoon Network
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37121
+#EXTINF:-1,Cartoon Network HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36927
+#EXTINF:-1,Cine+
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/42620
+#EXTINF:-1,Cinemax
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37120
+#EXTINF:-1,Cinemax HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36926
+#EXTINF:-1,Combate
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37119
+#EXTINF:-1,COMBATE 4K
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/42635
+#EXTINF:-1,Combate HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36986
+#EXTINF:-1,Comedy Central
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37118
+#EXTINF:-1,Comedy Central HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36925
+#EXTINF:-1,Discovery Channel
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37116
+#EXTINF:-1,Discovery Channel HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36985
+#EXTINF:-1,Discovery Civilization HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36924
+#EXTINF:-1,Discovery Home & Health
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36984
+#EXTINF:-1,Discovery Home & Health HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37115
+#EXTINF:-1,Discovery Kids
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37113
+#EXTINF:-1,Discovery Kids HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36923
+#EXTINF:-1,Discovery Science HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36922
+#EXTINF:-1,Discovery Theater HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36983
+#EXTINF:-1,Discovery Turbo
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37112
+#EXTINF:-1,Discovery Turbo HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36982
+#EXTINF:-1,Discovery World HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36981
+#EXTINF:-1,Disney Channel
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37111
+#EXTINF:-1,Disney Channel HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36921
+#EXTINF:-1,Disney Junior
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37110
+#EXTINF:-1,Disney Junior HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40517
+#EXTINF:-1,Disney XD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37109
+#EXTINF:-1,E! Entertainment Television
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37108
+#EXTINF:-1,E! HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36920
+#EXTINF:-1,ESPN
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37105
+#EXTINF:-1,ESPN 2 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36976
+#EXTINF:-1,Espn Brasil
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37104
+#EXTINF:-1,ESPN Brasil HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36978
+#EXTINF:-1,ESPN Extra
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/41977
+#EXTINF:-1,ESPN Extra HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/42910
+#EXTINF:-1,ESPN HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36977
+#EXTINF:-1,Food Network
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37102
+#EXTINF:-1,Food Network HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36919
+#EXTINF:-1,Fox
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37101
+#EXTINF:-1,Fox Channel HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36972
+#EXTINF:-1,Fox Premium 1
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37335
+#EXTINF:-1,Fox Premium 1  HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36974
+#EXTINF:-1,Fox Premium 2
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37336
+#EXTINF:-1,Fox Premium 2 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36973
+#EXTINF:-1,FoxLife
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37100
+#EXTINF:-1,FoxLife HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36918
+#EXTINF:-1,FoxSports
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37099
+#EXTINF:-1,FoxSports 2
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37098
+#EXTINF:-1,FoxSports 2 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36971
+#EXTINF:-1,FoxSports HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36970
+#EXTINF:-1,FX
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37097
+#EXTINF:-1,FX HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36969
+#EXTINF:-1,GloboNews
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37093
+#EXTINF:-1,GloboNews HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36917
+#EXTINF:-1,GloboSat HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36916
+#EXTINF:-1,Gloob
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37089
+#EXTINF:-1,Gloob HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36915
+#EXTINF:-1,GNT
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37088
+#EXTINF:-1,GNT HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36967
+#EXTINF:-1,HBO
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37087
+#EXTINF:-1,HBO 2
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37086
+#EXTINF:-1,HBO 2 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36966
+#EXTINF:-1,HBO Family
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37085
+#EXTINF:-1,HBO Family HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36965
+#EXTINF:-1,HBO HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36964
+#EXTINF:-1,HBO Plus
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37084
+#EXTINF:-1,HBO PLUS E
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37083
+#EXTINF:-1,HBO Plus HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36963
+#EXTINF:-1,HBO Signature
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37082
+#EXTINF:-1,HBO Signature HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36962
+#EXTINF:-1,He Man [24h]
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/39776
+#EXTINF:-1,ID: Investigação Discovery
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37114
+#EXTINF:-1,Investigação Discovery HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36959
+#EXTINF:-1,Max
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37076
+#EXTINF:-1,Max HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36913
+#EXTINF:-1,MAX PRIME E
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37074
+#EXTINF:-1,Max Prime HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36912
+#EXTINF:-1,Max UP
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37073
+#EXTINF:-1,Max UP HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36911
+#EXTINF:-1,MaxPrime
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37075
+#EXTINF:-1,Megapix
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37072
+#EXTINF:-1,Megapix HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36958
+#EXTINF:-1,MTV
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37071
+#EXTINF:-1,MTV HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36910
+#EXTINF:-1,MTV Live
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40519
+#EXTINF:-1,MTV LIVE HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40518
+#EXTINF:-1,Multishow
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37070
+#EXTINF:-1,Multishow HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36957
+#EXTINF:-1,NatGeo Kids
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37067
+#EXTINF:-1,NatGeo Kids HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36909
+#EXTINF:-1,National Geographic Wild
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37066
+#EXTINF:-1,National Geographic Wild HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36955
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37068
+#EXTINF:-1,NATIONAL GEOGRAPHICS HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36956
+#EXTINF:-1,Nick
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37064
+#EXTINF:-1,Nick HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36907
+#EXTINF:-1,Nick Jr.
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37065
+#EXTINF:-1,Nick Jr. HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36908
+#EXTINF:-1,O Incrivel Mundo de Gumball [24h]
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/39774
+#EXTINF:-1,Paramount Channel
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37062
+#EXTINF:-1,Paramount HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36953
+#EXTINF:-1,PlayKids HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/41359
+#EXTINF:-1,Premiere 2
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37060
+#EXTINF:-1,Premiere 2 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36952
+#EXTINF:-1,Premiere 3
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37059
+#EXTINF:-1,Premiere 3 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36951
+#EXTINF:-1,Premiere 4
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37058
+#EXTINF:-1,Premiere 4 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36950
+#EXTINF:-1,Premiere 5
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37057
+#EXTINF:-1,Premiere 5 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36949
+#EXTINF:-1,Premiere 6
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37056
+#EXTINF:-1,Premiere 6 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36906
+#EXTINF:-1,Premiere 7
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37017
+#EXTINF:-1,Premiere 7 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36905
+#EXTINF:-1,PREMIERE CLUBES
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37016
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40783
+#EXTINF:-1,Premiere Clubes HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36948
+#EXTINF:-1,Prime Box Brazil
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37053
+#EXTINF:-1,Record HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36947
+#EXTINF:-1,Record News
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/41529
+#EXTINF:-1,Record News HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37050
+#EXTINF:-1,RecordTV
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37051
+#EXTINF:-1,Rede Vida
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37011
+#EXTINF:-1,SBT
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37048
+#EXTINF:-1,SBT HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36945
+#EXTINF:-1,SBT SP Interior
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/42912
+#EXTINF:-1,Sony
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37007
+#EXTINF:-1,Sony HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36987
+#EXTINF:-1,Space
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37046
+#EXTINF:-1,Space HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36944
+#EXTINF:-1,SporTV
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37256
+#EXTINF:-1,Sportv 2
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37044
+#EXTINF:-1,Sportv 2 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36943
+#EXTINF:-1,Sportv 3
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37006
+#EXTINF:-1,Sportv 3 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36942
+#EXTINF:-1,SPORTV 4K
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40785
+#EXTINF:-1,Sportv HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37255
+#EXTINF:-1,Studio Universal
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37043
+#EXTINF:-1,Studio Universal HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36904
+#EXTINF:-1,Syfy
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37042
+#EXTINF:-1,Syfy HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36903
+#EXTINF:-1,TBS
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37041
+#EXTINF:-1,TBS HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36940
+#EXTINF:-1,TCM
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37037
+#EXTINF:-1,Telecine Action
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37040
+#EXTINF:-1,Telecine Action HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36939
+#EXTINF:-1,Telecine Cult
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37039
+#EXTINF:-1,Telecine Cult HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36901
+#EXTINF:-1,Telecine Fun
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37005
+#EXTINF:-1,Telecine Fun HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36938
+#EXTINF:-1,Telecine Pipoca
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37038
+#EXTINF:-1,Telecine Pipoca HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36937
+#EXTINF:-1,Telecine Premium
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36994
+#EXTINF:-1,Telecine Premium HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36936
+#EXTINF:-1,Telecine Touch
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36995
+#EXTINF:-1,Telecine Touch HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36935
+#EXTINF:-1,TLC HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36902
+#EXTINF:-1,TLC SD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37036
+#EXTINF:-1,TNT
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37035
+#EXTINF:-1,TNT HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36934
+#EXTINF:-1,TNT Series
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37034
+#EXTINF:-1,TNT Series HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36933
+#EXTINF:-1,Tooncast
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37033
+#EXTINF:-1,TruTV
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37032
+#EXTINF:-1,Turma da Monica [24h]
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/39571
+#EXTINF:-1,TV Ra Tim Bum
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37015
+#EXTINF:-1,TV Rede Gospel SD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40247
+#EXTINF:-1,Tv Século 21
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40098
+#EXTINF:-1,TV TEM Bauru
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37030
+#EXTINF:-1,TV TEM Sorocaba
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37029
+#EXTINF:-1,Tv Universal
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40079
+#EXTINF:-1,Universal Channel
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37027
+#EXTINF:-1,Universal Channel HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36932
+#EXTINF:-1,VH1 HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36900
+#EXTINF:-1,Viva
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36997
+#EXTINF:-1,Viva HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36931
+#EXTINF:-1,Warner Channel
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36996
+#EXTINF:-1,Warner HD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36930
+#EXTINF:-1,Web Tv Agua Boa SD
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40234
+#EXTINF:-1,Woohoo
+http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37025
